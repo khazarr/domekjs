@@ -1,5 +1,5 @@
 
-const { gumtreeExtractor } = require('./helpers');
+const { gumtreeExtractor } = require('./scrape');
 const request = require('axios');
 const fs = require('fs');
 const jsonfile = require('jsonfile');
@@ -21,8 +21,18 @@ const gumtreeData = [
 
  async function getGumtreeRequest(input) {
    const pageData = await request(input.url)
-   fs.writeFile('gumtree2.txt', pageData.data, 'utf8');
  }
 
 
- getGumtreeRequest(gumtreeData[1])
+ // getGumtreeRequest(gumtreeData[1])
+
+// temp array
+let temp = [
+  'gumtree2.txt',
+];
+
+console.log('halko')
+temp.map(item => {
+  console.log(item)
+  gumtreeExtractor(item)
+})

@@ -1,21 +1,16 @@
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const readed = fs.readFileSync('gumtree1.txt', 'utf8');
 
 
 
-let data = JSON.stringify(gumtreeExtractor(readed), null, 2);
-
-fs.writeFile('output.json', data, (err) => {
-    if (err) throw err;
-    console.log('Data written to file');
-});
 
 function gumtreeExtractor(html) {
 
+  const readed = fs.readFileSync(html, 'utf8');
   const result = [];
-  const $ = cheerio.load(html);
+  // const $ = cheerio.load(html);
+  const $ = cheerio.load(readed);
 
   const titles = [];
   const urls = [];
@@ -71,6 +66,14 @@ function gumtreeExtractor(html) {
       lifespan: lifespans[i]
     })
   }
+
+  let data = JSON.stringify(result, null, 2);
+
+  fs.writeFile(String(new Date()).substr(0,24) + '.json', data, (err) => {
+      if (err) throw err;
+      console.log('Data written to file');
+  });
+
   return result
 }
 
