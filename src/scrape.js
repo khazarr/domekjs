@@ -49,16 +49,19 @@ function gumtreeExtractor(html) {
     const dateRead = $(this).children().text()
 
 
-    if(dateRead.split(' ').length === 1) {
-      // console.log(dateRead.split('-'))
-      let today = new Date().getDate();
-      let hours = (today - Number(dateRead.split('-')[0])) * 24
-      // console.log( hours + ' godz')
-      lifespans.push(hours + ' godz')
-    } else if (dateRead.split(' ').length === 3) {
-      // console.log(dateRead.split(' ')[0] + ' ' + dateRead.split(' ')[1])
-      lifespans.push(dateRead.split(' ')[0] + ' ' + dateRead.split(' ')[1])
-    }
+    // NEED FIX
+    // if(dateRead.split(' ').length === 1) {
+    //   // console.log(dateRead.split('-'))
+    //   let today = new Date().getDate();
+    //   let hours = (today - Number(dateRead.split('-')[0])) * 24
+    //   // console.log( hours + ' godz')
+    //   lifespans.push(hours + ' godz')
+    // } else if (dateRead.split(' ').length === 3) {
+    //   // console.log(dateRead.split(' ')[0] + ' ' + dateRead.split(' ')[1])
+    //   lifespans.push(dateRead.split(' ')[0] + ' ' + dateRead.split(' ')[1])
+    // }
+    lifespans.push(dateRead)
+
   });
 
   for (let i = 0; i < titles.length; i++) {

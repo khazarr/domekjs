@@ -1,6 +1,5 @@
 
 const { gumtreeExtractor } = require('./scrape');
-const { readFile, writeFile} = require('./fileOperations')
 const request = require('axios');
 const fs = require('fs');
 const jsonfile = require('jsonfile');
@@ -32,34 +31,17 @@ let temp = [
    return res
  }
 
-// async function scrapeGumtreePageRequest(filename) {
-//   const scraped = await gumtreeExtractor(pageDataFolder + filename)
-//   console.log(scraped)
-//   return scraped
-//   // console.log(scraped)
-// }
-
-// function scrapeGumtreePageRequest(filename) {
-//   console.log(filename + ' done')
-//   return new Promise(function(resolve, reject) {
-//       resolve(gumtreeExtractor(pageDataFolder + filename))
-//     })
-// }
-
-// scrapeGumtreePageRequest(temp[0])
-
- // getGumtreeRequest(gumtreeData[1])
-
-// temp array
-
-
-
 
 var q = async.queue(function(task, callback) {
     console.log('plik:  ' + task.fileName);
     callback();
 }, 1);
 
+
+// TO DO
+// - rozbicie tego na 2 osobne kolejki
+// najpierw requesty, pozniej skrobanie
+// dodatkowo pierwsza kolejka na koniec wywołuje drugą
 
 // add request to queue
 
@@ -81,11 +63,9 @@ fs.readdir(pageDataFolder, (err, files) => {
 })
 
 q.drain = function() {
+
     let merged = [].concat.apply([], arrayOfArrays);
-
-
     let data = JSON.stringify(merged, null, 2);
-
 
     fs.writeFile('../scraped/'+ String(new Date()).substr(0,24) + '.json', data, (err) => {
         if (err) {
@@ -98,9 +78,3 @@ q.drain = function() {
       console.log('all files have been processed');
 
 };
-
-
-// TO DO
-// - rozbicie tego na 2 osobne kolejki
-// najpierw requesty, pozniej skrobanie
-// dodatkowo pierwsza kolejka na koniec wywołuje drugą
