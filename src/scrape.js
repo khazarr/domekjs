@@ -18,6 +18,7 @@ function gumtreeExtractor(html) {
   const prices = [];
   const imgs = [];
   const lifespans = [];
+  const imagesAvailible = []
 
   $('.href-link').each(function(i, elem) {
     const title = $(this).text();
@@ -39,6 +40,11 @@ function gumtreeExtractor(html) {
     imgs.push(img)
   });
 
+  $('.result').each(function(i, elem) {
+    const hasImg = $(this).hasClass('pictures');
+    imagesAvailible.push(hasImg)
+  });
+
   $('.creation-date').each(function(i, elem) {
     const dateRead = $(this).children().text()
 
@@ -55,35 +61,50 @@ function gumtreeExtractor(html) {
     }
   });
 
-
   for (let i = 0; i < titles.length; i++) {
-    result.push({
+    const flat = {
       title: titles[i],
       url: urls[i],
       description: descriptions[i],
       price: prices[i],
-      img: imgs[i],
       lifespan: lifespans[i]
-    })
+    }
+
+    if(imagesAvailible[i]) {
+      flat.img = imgs[i]
+    } else {
+      flat.img = "Brak zdjęć"
+    }
+
+    result.push(flat)
+
+
   }
 
   let data = JSON.stringify(result, null, 2);
 
 
+  // fs.writeFile('../scraped/'+ String(new Date()).substr(0,24) + '.json', data, (err) => {
+  //     if (err) {
+  //       // reject(err);
+  //     } else {
+  //       console.log('Data written to file');
+  //       // resolve(result)
+  //     }
+  //   })
+  return result
 
-  // return result
-  
-  return new Promise(function(resolve, reject) {
-    	// Do async job
-      fs.writeFile(String(new Date()).substr(0,24) + '.json', data, (err) => {
-          if (err) {
-            reject(err);
-          } else {
-            console.log('Data written to file');
-            resolve(result)
-          }
-      });
-    })
+  // return new Promise(function(resolve, reject) {
+  //   	// Do async job
+  //     fs.writeFile('../scraped/'+ String(new Date()).substr(0,24) + '.json', data, (err) => {
+  //         if (err) {
+  //           reject(err);
+  //         } else {
+  //           console.log('Data written to file');
+  //           resolve(result)
+  //         }
+  //     });
+  //   })
 }
 
 module.exports = {
