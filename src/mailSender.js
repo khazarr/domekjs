@@ -36,13 +36,17 @@ const mailSender = {
 }
 
 
+module.exports = {
+    mailSender
+};
+
 // tests
 
-var fs = require('fs');
-let dataArr;
-fs.readFile('/home/kari/aws-node-projects/domekNode/scraped/flats.json', 'utf8', function (err, data) {
-    if (err) throw err;
-    dataArr = JSON.parse(data);
-    mailSender.send(dataArr)
+// var fs = require('fs');
+// let dataArr;
+// fs.readFile('/home/kari/aws-node-projects/domekNode/scraped/flats.json', 'utf8', function (err, data) {
+//     if (err) throw err;
+//     dataArr = JSON.parse(data);
+//     mailSender.send(dataArr)
 
-});
+// });

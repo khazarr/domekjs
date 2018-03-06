@@ -135,9 +135,9 @@
 <html  data-locale="pl_PL" lang="pl_PL" xmlns="http://www.w3.org/1999/html" class="ResultsSearch"><!--<![endif]-->
 <head>
 	
-	<title>Zabiniec – mieszkania i domy do wynajęcia | Gumtree</title>
+	<title>Rondo Mogilskie – mieszkania i domy do wynajęcia | Gumtree</title>
 	<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>
-	<meta name="description" content="Znajdź ogłoszenia związane z zabiniec w kategorii {2} na www.gumtree.pl – zapraszamy do przeglądania anonsów."/>
+	<meta name="description" content="Znajdź ogłoszenia związane z rondo mogilskie w kategorii {2} na www.gumtree.pl – zapraszamy do przeglądania anonsów."/>
 	<meta name="robots" content="index,follow"/>
 	<meta name="format-detection" content="telephone=no"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no "/>
@@ -150,13 +150,13 @@
 	
 
 	
-		<meta property="og:title" content="Zabiniec – mieszkania i domy do wynajęcia | Gumtree"/>
+		<meta property="og:title" content="Rondo Mogilskie – mieszkania i domy do wynajęcia | Gumtree"/>
 		<meta property="og:type" content="website"/>
 	    <meta property="og:image" content='https://securet9.classistatic.com/1.1.560/images/pl_PL/logoOpenGraph.png'/>
-		<meta property="og:url" content="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/zabiniec/v1c9008q0p1"/>
+		<meta property="og:url" content="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/v1c9008q0p1"/>
 		<meta property="og:site_name" content="Gumtree"/>
 		<meta property="og:country-name" content="Poland"/>
-		<meta property="og:description" content="Znajdź ogłoszenia związane z zabiniec w kategorii {2} na www.gumtree.pl – zapraszamy do przeglądania anonsów."/>
+		<meta property="og:description" content="Znajdź ogłoszenia związane z rondo mogilskie w kategorii {2} na www.gumtree.pl – zapraszamy do przeglądania anonsów."/>
 		<meta property="og:locale" content="pl_PL"/>
 	
 
@@ -183,7 +183,7 @@
 	
 
 	
-		<link rel="canonical" href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/zabiniec/v1c9008q0p1"/>
+		<link rel="canonical" href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/v1c9008q0p1"/>
 	
 	
 	
@@ -194,6 +194,8 @@
    
    	
 			
+			
+				<link rel="next" href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/page-2/v1c9008q0p2?nr=2&amp;pr=,1600" />
 			 
     
 
@@ -266,10 +268,10 @@
 			 
 
 	dl["s"]={};
-	dl["s"]["kw"] = "zabiniec";
-	dl["s"]["tr"] = "20";
+	dl["s"]["kw"] = "rondo mogilskie";
+	dl["s"]["tr"] = "36";
 	dl["s"]["pn"] = "1";
-	dl["s"]["tp"] = "1";
+	dl["s"]["tp"] = "2";
 	dl["s"]["ps"] = "20";
 
 	// In order to the unity of the 1.0 and 2.0
@@ -288,22 +290,22 @@
 	
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224848802 ;
+			ssr_oa["id"] =224843406 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224844670 ;
+			ssr_oa["id"] =224837711 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224837961 ;
+			ssr_oa["id"] =224831332 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224836919 ;
+			ssr_oa["id"] =224814973 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
@@ -313,77 +315,77 @@
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224804479 ;
+			ssr_oa["id"] =224787262 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224800545 ;
+			ssr_oa["id"] =224786614 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224789410 ;
+			ssr_oa["id"] =224775463 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =219195468 ;
-			ssr_oa["ftr"] =["BUMP_UP"];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =224595507 ;
+			ssr_oa["id"] =224770582 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224373711 ;
+			ssr_oa["id"] =224771609 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224324340 ;
+			ssr_oa["id"] =224730255 ;
+			ssr_oa["ftr"] =["TOP_AD"];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224653559 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224300569 ;
+			ssr_oa["id"] =224559199 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224126367 ;
+			ssr_oa["id"] =224452736 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224090972 ;
+			ssr_oa["id"] =224445818 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224079451 ;
+			ssr_oa["id"] =224391587 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224014909 ;
+			ssr_oa["id"] =224328687 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =223762614 ;
+			ssr_oa["id"] =224315773 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =220629967 ;
+			ssr_oa["id"] =224285657 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =222586106 ;
+			ssr_oa["id"] =224204286 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
@@ -690,7 +692,7 @@
 
                         
                         <div class="keyword">
-    <input tabindex="1" type="text" name="q" value="zabiniec" placeholder='Czego szukasz?' autocomplete="off" />
+    <input tabindex="1" type="text" name="q" value="rondo mogilskie" placeholder='Czego szukasz?' autocomplete="off" />
 </div>
                         
 
@@ -814,10 +816,10 @@
 
 
 	<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-		<a class="category" href="https://www.gumtree.pl/s-nieruchomosci/zabiniec/v1c2q0p1?pr=,1600">
+		<a class="category" href="https://www.gumtree.pl/s-nieruchomosci/rondo+mogilskie/v1c2q0p1?pr=,1600">
 			<span class="microdata" itemprop="title">Nieruchomości</span>
 		</a>
-		<meta itemprop="url" content="https://www.gumtree.pl/s-nieruchomosci/zabiniec/v1c2q0p1?pr=,1600" />
+		<meta itemprop="url" content="https://www.gumtree.pl/s-nieruchomosci/rondo+mogilskie/v1c2q0p1?pr=,1600" />
 	</span>
 	
        <span class="icon-chevron-right"></span>
@@ -834,7 +836,7 @@
             <h1>
                 
                     <span class="atts"><span class="attributes">
-    <span class="keyword">"zabiniec"</span>
+    <span class="keyword">"rondo mogilskie"</span>
     
 </span>
 
@@ -856,7 +858,7 @@
 
 
             <span class="count">
-					Aktywnych ogłoszeń: 20
+					Aktywnych ogłoszeń: 36
 			</span>
         
     </div>
@@ -906,58 +908,26 @@
         solrQuery : 
         -->
         
-            <ul class="resultsContainer selMenu selMenuLong ">
-                
+            <ul class="resultsContainer selMenu ">
                 
                     <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/zabiniec+krakow/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">zabiniec krakow</a>
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/mieszkanie+rondo+mogilskie+2+pokoje/v1c9008q0p1">mieszkanie rondo mogilskie 2 pokoje</a>
                         
                             
-                                
+                                <span class="arrow icon-caret-down brDesk"></span>
                             
                         
                     </li>
                 
                     <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/mieszkanie+zabiniec/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">mieszkanie zabiniec</a>
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/mieszkanie+rondo+mogilskie/v1c9008q0p1">mieszkanie rondo mogilskie</a>
                         
-                            <span class="arrow icon-caret-down brDesk"></span>
-                        
-                    </li>
-                
-                    <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/do+wynajecia+mieszkanie+dwupokojowe+zabiniec+ul.+reja+41m2+1800+zl%26+43+media/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">do wynajecia mieszkanie dwupokojowe zabiniec ul. reja 41m2 1800 zl&amp; 43 media</a>
-                        
-                            
-                                
                             
                         
                     </li>
                 
                     <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/zabiniec+48/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">zabiniec 48</a>
-                        
-                            
-                                
-                            
-                        
-                    </li>
-                
-                    <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/tecnocasa+zabiniec/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">tecnocasa zabiniec</a>
-                        
-                            
-                                
-                                    
-                                        <span class="arrow icon-caret-down brFullDesk"></span>
-                                    
-                                
-                            
-                        
-                    </li>
-                
-                    <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/miejsce+postojowe+zabiniec/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">miejsce postojowe zabiniec</a>
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/mieszkanie+krakow+rondo+mogilskie/v1c9008q0p1">mieszkanie krakow rondo mogilskie</a>
                         
                             
                                 
@@ -968,33 +938,19 @@
                     </li>
                 
                     <li class="nav-item nonJsOnlyInlineBlock showArrow">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/kawalerka+zabiniec/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">kawalerka zabiniec</a>
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/krakow+rondo+mogilskie/v1c9008q0p1">krakow rondo mogilskie</a>
                         
-                            
-                                
                             
                         
                     </li>
                 
                     <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/zabiniec+1+pokojowe+do+wynajecia/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">zabiniec 1 pokojowe do wynajecia</a>
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie+krakow/v1c9008q0p1">rondo mogilskie krakow</a>
                         
-                            
-                                
                             
                         
                     </li>
                 
-                    <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/1+pokojowe+do+wynajecia+krakow+zabiniec/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">1 pokojowe do wynajecia krakow zabiniec</a>
-                        
-                            
-                                
-                            
-                        
-                    </li>
-                
-              
             </ul>
         
     </div>
@@ -1058,15 +1014,15 @@
         
          <ul class='foldableList'>
             
-                 <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=qg&amp;beqre=qrfp" data-sort-key="dtdesc" data-gaq="SRPsort|Recent|1|false">
+                 <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=qg&amp;beqre=qrfp" data-sort-key="dtdesc" data-gaq="SRPsort|Recent|1|false">
                     <span><span class="icon-sortdate-icon-active controlIcon" data-icon-common="icon-sortdate-icon-active" data-icon-gray="icon-sortdate-icon-active" data-icon-white="icon-sortdate-icon-white"></span></span>
                     <span class="text">Najnowsze</span>
                 </li>
-                <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=ce&amp;beqre=nfp" data-sort-key="prasc" data-gaq="SRPsort|PricLo|1|false">
+                <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=ce&amp;beqre=nfp" data-sort-key="prasc" data-gaq="SRPsort|PricLo|1|false">
                     <span><span class="icon-price-down-green controlIcon" data-icon-common="icon-price-down-green" data-icon-gray="icon-price-down-green" data-icon-white="icon-price-down-white"></span></span>
                     <span class="text">Najniższa cena</span>
                 </li>
-                <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=ce&amp;beqre=qrfp"data-sort-key="prdesc" data-gaq="SRPsort|PricHi|1|false">
+                <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=ce&amp;beqre=qrfp"data-sort-key="prdesc" data-gaq="SRPsort|PricHi|1|false">
                     <span><span class="icon-price-up-green controlIcon" data-icon-common="icon-price-up-green" data-icon-gray="icon-price-up-green" data-icon-white="icon-price-up-white"></span></span>
                     <span class="text">Najwyższa cena</span>
                 </li>
@@ -1159,15 +1115,15 @@
         
          <ul class='foldableList'>
             
-                 <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=qg&amp;beqre=qrfp" data-sort-key="dtdesc" data-gaq="SRPsort|Recent|1|false">
+                 <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=qg&amp;beqre=qrfp" data-sort-key="dtdesc" data-gaq="SRPsort|Recent|1|false">
                     <span><span class="icon-sortdate-icon-active controlIcon" data-icon-common="icon-sortdate-icon-active" data-icon-gray="icon-sortdate-icon-active" data-icon-white="icon-sortdate-icon-white"></span></span>
                     <span class="text">Najnowsze</span>
                 </li>
-                <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=ce&amp;beqre=nfp" data-sort-key="prasc" data-gaq="SRPsort|PricLo|1|false">
+                <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=ce&amp;beqre=nfp" data-sort-key="prasc" data-gaq="SRPsort|PricLo|1|false">
                     <span><span class="icon-price-down-green controlIcon" data-icon-common="icon-price-down-green" data-icon-gray="icon-price-down-green" data-icon-white="icon-price-down-white"></span></span>
                     <span class="text">Najniższa cena</span>
                 </li>
-                <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=ce&amp;beqre=qrfp"data-sort-key="prdesc" data-gaq="SRPsort|PricHi|1|false">
+                <li class='item' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fbeg=ce&amp;beqre=qrfp"data-sort-key="prdesc" data-gaq="SRPsort|PricHi|1|false">
                     <span><span class="icon-price-up-green controlIcon" data-icon-common="icon-price-up-green" data-icon-gray="icon-price-up-green" data-icon-white="icon-price-up-white"></span></span>
                     <span class="text">Najwyższa cena</span>
                 </li>
@@ -1186,7 +1142,7 @@
 	        
 	        
 	        
-	         <input type="hidden" name="q" value="zabiniec"/>
+	         <input type="hidden" name="q" value="rondo mogilskie"/>
 	        
 	        
 	            <input type="hidden" value="2" name="attr[nr]"/>
@@ -1216,10 +1172,10 @@
     
         
     
-    <li class="hierarchy"><span class="text"><a href="/s-zabiniec/v1q0p1?pr=,1600">Wszystkie kategorie</a></span></li>
+    <li class="hierarchy"><span class="text"><a href="/s-rondo+mogilskie/v1q0p1?pr=,1600">Wszystkie kategorie</a></span></li>
 
     
-    <li class="hierarchy"><span class="text"><a href="/s-nieruchomosci/zabiniec/v1c2q0p1?pr=,1600">Nieruchomości</a></span></li>
+    <li class="hierarchy"><span class="text"><a href="/s-nieruchomosci/rondo+mogilskie/v1c2q0p1?pr=,1600">Nieruchomości</a></span></li>
 
             
             
@@ -1231,7 +1187,7 @@
 					<span class="text">mieszkania i domy do wynajęcia</span>
            			
 	
-		<span class="count" data-count="20">20</span>
+		<span class="count" data-count="36">36</span>
 	
 
                
@@ -1270,7 +1226,7 @@
 						<span class="text">Polska</span>
 	           			
 	
-		<span class="count" data-count="20">20</span>
+		<span class="count" data-count="36">36</span>
 	
 
 	               
@@ -1283,10 +1239,10 @@
 	                        
 	                        	
 		                            <li class="selectOption">
-		                                <span class="text"><a href="/s-mieszkania-i-domy-do-wynajecia/malopolskie/zabiniec/v1c9008l3200003q0p1?nr=2&amp;pr=,1600">Małopolskie</a></span>
+		                                <span class="text"><a href="/s-mieszkania-i-domy-do-wynajecia/malopolskie/rondo+mogilskie/v1c9008l3200003q0p1?nr=2&amp;pr=,1600">Małopolskie</a></span>
 		                                
 	
-		<span class="count" data-count="20">20</span>
+		<span class="count" data-count="36">36</span>
 	
 
 		                            </li>
@@ -1494,9 +1450,9 @@
 	            
 		            <li class="selectOption">
 			       		
-		                <span class="text" ><a href="/s-mieszkania-i-domy-do-wynajecia/zabiniec/mieszkanie/v1c9008q0a1dwp1?nr=2&amp;pr=,1600">Mieszkanie</a></span>
+		                <span class="text" ><a href="/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/mieszkanie/v1c9008q0a1dwp1?nr=2&amp;pr=,1600">Mieszkanie</a></span>
 			       		
-		                <span class="count" data-count="20">20</span>
+		                <span class="count" data-count="36">36</span>
 		            </li>
 	            
 	        
@@ -1540,7 +1496,7 @@
             <span class="titleText">Liczba pokoi</span>
             <span class="titleControl">
                 <span class="currentStatus">2 pokoje</span>
-                <a href="/s-mieszkania-i-domy-do-wynajecia/zabiniec/v1c9008q0p1?pr=,1600"><span class="icon-remove"/></a>
+                <a href="/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/v1c9008q0p1?pr=,1600"><span class="icon-remove"/></a>
             </span>
         </div>
     </li>
@@ -1573,9 +1529,9 @@
 	            
 		            <li class="selectOption">
 			       		
-		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;on=10">1 łazienka</span>
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;on=10">1 łazienka</span>
 			       		
-		                <span class="count" data-count="14">14</span>
+		                <span class="count" data-count="27">27</span>
 		            </li>
 	            
 	        
@@ -1584,9 +1540,9 @@
 	            
 		            <li class="selectOption">
 			       		
-		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;on=20">2 łazienki</span>
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;on=20">2 łazienki</span>
 			       		
-		                <span class="count" data-count="2">2</span>
+		                <span class="count" data-count="1">1</span>
 		            </li>
 	            
 	        
@@ -1636,15 +1592,8 @@
         <ul class="foldableList finalsub ">
             
             
-	            
-		            <li class="selectOption">
-			       		
-		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;cn=tentr">Garaż</span>
-			       		
-		                <span class="count" data-count="1">1</span>
-		            </li>
-	            
-	        
+	        	
+            
             
             
 	        	
@@ -1654,9 +1603,9 @@
 	            
 		            <li class="selectOption">
 			       		
-		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;cn=fgerg">Ulica</span>
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;cn=fgerg">Ulica</span>
 			       		
-		                <span class="count" data-count="2">2</span>
+		                <span class="count" data-count="15">15</span>
 		            </li>
 	            
 	        
@@ -1705,16 +1654,23 @@
 	            
 		            <li class="selectOption">
 			       		
-		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fz=1">Tak</span>
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fz=1">Tak</span>
 			       		
-		                <span class="count" data-count="1">1</span>
+		                <span class="count" data-count="2">2</span>
 		            </li>
 	            
 	        
             
             
-	        	
-            
+	            
+		            <li class="selectOption">
+			       		
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fz=0">Nie</span>
+			       		
+		                <span class="count" data-count="3">3</span>
+		            </li>
+	            
+	        
             
             
     <li class="text showmore collapse">
@@ -1755,16 +1711,23 @@
 	            
 		            <li class="selectOption">
 			       		
-		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;cs=1">Tak</span>
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;cs=1">Tak</span>
 			       		
-		                <span class="count" data-count="1">1</span>
+		                <span class="count" data-count="2">2</span>
 		            </li>
 	            
 	        
             
             
-	        	
-            
+	            
+		            <li class="selectOption">
+			       		
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;cs=0">Nie</span>
+			       		
+		                <span class="count" data-count="4">4</span>
+		            </li>
+	            
+	        
             
             
     <li class="text showmore collapse">
@@ -1807,9 +1770,9 @@
 	            
 		            <li class="selectOption">
 			       		
-		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;se=bjae">Właściciel</span>
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;se=bjae">Właściciel</span>
 			       		
-		                <span class="count" data-count="5">5</span>
+		                <span class="count" data-count="14">14</span>
 		            </li>
 	            
 	        
@@ -1818,9 +1781,9 @@
 	            
 		            <li class="selectOption">
 			       		
-		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/mnovavrp/i1p9008d0c1?ae=2&amp;ce=,1600&amp;se=ntapl">Agencja</span>
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/ebaqb+zbtvyfxvr/i1p9008d0c1?ae=2&amp;ce=,1600&amp;se=ntapl">Agencja</span>
 			       		
-		                <span class="count" data-count="15">15</span>
+		                <span class="count" data-count="22">22</span>
 		            </li>
 	            
 	        
@@ -1890,7 +1853,7 @@
 	<span class='filterCatLoc'> 
 	
                 
-         mieszkania i domy do wynajęcia, Polska (Cena: Do zł1600, Liczba pokoi: 2 pokoje, Hasło: &quot;zabiniec&quot;)
+         mieszkania i domy do wynajęcia, Polska (Cena: Do zł1600, Liczba pokoi: 2 pokoje, Hasło: &quot;rondo mogilskie&quot;)
                     
      
 	</span>
@@ -1962,6 +1925,142 @@
 
 
 	
+		<div class='section-divider'>
+			<span class='section-title'>Ogłoszenia wyróżnione</span>
+			
+				<span class='sudo-link cta' data-o-uri="?sr=1">Zobacz wszystkie</span>
+			
+		</div>
+
+		<div class="view top-listings">
+			<ul>
+				
+					
+					
+        <li class="result pictures" data-adid="1002247302550910955074209" data-criteoadid="224730255">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/ZDUAAOSwjZ5anbMx/$_19.JPG" alt="Wynajmę dwu pokojowe mieszkanie Kraków - Nowa Huta z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 8</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/wynajm%C4%99-dwu-pokojowe-mieszkanie-krak%C3%B3w-+-nowa-huta/1002247302550910955074209" >Wynajmę dwu pokojowe mieszkanie Kraków - Nowa Huta</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Komfortowe 2 pokojowe bardzo ustawne  40m2 mieszkanie w spokojnej okolicy na osiedlu Na Stoku. Tylko 15 minut autem od Ronda Mogilskiego. Wolne od 1 kwietnia 2018Mieszkanie jest  świeżo po remoncie, nowe nowoczesne umeblowanie w kuchni i dużym pokoju.  Możliwość zmiany umeblowania w małym pokoju według potrzeb. Nowy parkiet w całym mieszkaniu, nowa cała instalacja elektryczna, Nowa zmywarka, Nowy  ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 600 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>21 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224730255">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+					
+				
+			</ul>
+		</div>
+
+	
 
 	
 		
@@ -1990,17 +2089,17 @@
 				
 
 					
-        <li class="result pictures" data-adid="1002248488020911021047909" data-criteoadid="224848802">
+        <li class="result pictures" data-adid="1002248434060911167662309" data-criteoadid="224843406">
         	<div class="result-link   " >
                   <div class="thumb shrtHght">
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/MTA2NFg4MDA=/z/ogIAAOSwUWZant3s/$_19.JPG" alt="DWUPOKOJOWE === UL. KONECZNEGO === ŻABINIEC === 50 M2 z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDQ5WDgwMA==/z/FNIAAOSwrBVans93/$_19.JPG" alt="2 POKOJOWE PRZY BRONOWICKIEJ DO WŁASNEJ ARANŻACJI z Krakow, zobacz zdjęcie" class="thumbM"/>
 	                         
                             
                             
-        <div id="pht-cnt">Zdjęć: 6</div>
+        <div id="pht-cnt">Zdjęć: 9</div>
     
                             </div>
                         
@@ -2008,18 +2107,16 @@
                     <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
 						<div class="title">
 							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/dwupokojowe-ul-konecznego-%C5%BCabiniec-50-m2/1002248488020911021047909" >DWUPOKOJOWE &#61;&#61;&#61; UL. KONECZNEGO &#61;&#61;&#61; ŻABINIEC &#61;&#61;&#61; 50 M2</a>
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/2-pokojowe-przy-bronowickiej-do-w%C5%82asnej-aran%C5%BCacji/1002248434060911167662309" >2 POKOJOWE PRZY BRONOWICKIEJ DO WŁASNEJ ARANŻACJI</a>
 							
 							
 						</div>
 						
 							
-							    <div class="description hidden" >50 M2 *** Śliczne w pełni umeblowane i wyposażone (nowa pralka, nowa kuchenka 
-elektryczna, nowa zmywarka, naczynia, garnki, odkurzacz, żelazko, deska 
-do prasowania itp) mieszkanie na Osiedlu Żabiniec w Krakowie (ul. 
-Frycza-Modrzewskiego). Mieszkanie o powierzchni 50 m2 składa się z dwóch poziomów. Na 
-pierwszym znajduje się przedpokój, kuchnia, toaleta oraz przestronny 
-pokój dzienny z bal ...</div>
+							    <div class="description hidden" >2 POKOJOWE 42 M2 PRZY BRONOWICKIEJ NA NOWYM OSIEDLU, UMEBLOWANE, Z MIEJSCEM POSTOJOWYM W CENIE, Z MOŻLIWOŚCIĄ WŁASNEJ ARANŻACJI I DOPOSAŻENIA WŁASNYMI MEBLAMI W MIEJSCE MEBLI WŁAŚCICIELA.
+
+LOKALIZACJA:
+Mieszkanie znajduję się przy ulicy Bronowickiej, w dzielnicy Krowodrza na nowym osiedlu. Jest świetnie skomunikowane z centrum miasta, gdyż 200 metrów od mieszkania na ulicy Bronowickiej jest prz ...</div>
 							
 						
 						<div class=attributes-ctnr>
@@ -2059,7 +2156,7 @@ pokój dzienny z bal ...</div>
 		
 			
 				
-					<span class="amount">1 600 zł</span>
+					<span class="amount">1 450 zł</span>
 				
 			
 
@@ -2077,7 +2174,7 @@ pokój dzienny z bal ...</div>
                             
                             <div class="creation-date">
                                 <span class="icon-calendar"></span>
-                                <span>50 min temu</span>
+                                <span>1 godz temu</span>
                                 
                             </div>
                             
@@ -2095,7 +2192,7 @@ pokój dzienny z bal ...</div>
                              
 
                             <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224848802">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224843406">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -2124,17 +2221,17 @@ pokój dzienny z bal ...</div>
 				
 
 					
-        <li class="result pictures" data-adid="1002248446700911208184909" data-criteoadid="224844670">
+        <li class="result pictures" data-adid="1002248377110911167662309" data-criteoadid="224837711">
         	<div class="result-link   " >
                   <div class="thumb shrtHght">
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/MTA2NFg4MDA=/z/epYAAOSwawBantyw/$_19.JPG" alt="UL. FRYCZA MODRZEWSKIEGO +++ 50 M2 +++ ŻABINIEC +++ DWUPOKOJOWE z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTUyWDgwMA==/z/FzEAAOSwQX9anr7T/$_19.JPG" alt="2 POKOJOWE, 45M2 PRZY BRONOWICKIEJ, OSOBNE POKOJE z Krakow, zobacz zdjęcie" class="thumbM"/>
 	                         
                             
                             
-        <div id="pht-cnt">Zdjęć: 7</div>
+        <div id="pht-cnt">Zdjęć: 10</div>
     
                             </div>
                         
@@ -2142,18 +2239,14 @@ pokój dzienny z bal ...</div>
                     <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
 						<div class="title">
 							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/ul-frycza-modrzewskiego-%2B%2B%2B-50-m2-%2B%2B%2B-%C5%BCabiniec-%2B%2B%2B-dwupokojowe/1002248446700911208184909" >UL. FRYCZA MODRZEWSKIEGO &#43;&#43;&#43; 50 M2 &#43;&#43;&#43; ŻABINIEC &#43;&#43;&#43; DWUPOKOJOWE</a>
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/2-pokojowe-45m2-przy-bronowickiej-osobne-pokoje/1002248377110911167662309" >2 POKOJOWE, 45M2 PRZY BRONOWICKIEJ, OSOBNE POKOJE</a>
 							
 							
 						</div>
 						
 							
-							    <div class="description hidden" >KROWODRZA GÓRKA **** Śliczne w pełni umeblowane i wyposażone (nowa pralka, nowa kuchenka 
-elektryczna, nowa zmywarka, naczynia, garnki, odkurzacz, żelazko, deska 
-do prasowania itp) mieszkanie na Osiedlu Żabiniec w Krakowie (ul. 
-Frycza-Modrzewskiego). Mieszkanie o powierzchni 50 m2 składa się z dwóch poziomów. Na 
-pierwszym znajduje się przedpokój, kuchnia, toaleta oraz przestronny 
-pokój dz ...</div>
+							    <div class="description hidden" >LOKALIZACJA:
+Mieszkanie znajduję się przy ulicy Rydla w dzielnicy Krowodrza. Jest świetnie skomunikowane z centrum miasta, gdyż 400 metrów od mieszkania przy ulicy Bronowickiej  jest przystanek tramwajowy, z którego bardzo szybko i bez przesiadek dojedziesz do Alei Trzech Wieszczy, Rynku, dworca PKP, Galerii Krakowskiej, Nowego Kleparza, Kazimierz, Rondo Mogilskie, Rondo Mateczny i dalej do Borku ...</div>
 							
 						
 						<div class=attributes-ctnr>
@@ -2193,265 +2286,7 @@ pokój dz ...</div>
 		
 			
 				
-					<span class="amount">1 600 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>55 min temu</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224844670">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002248379610911036161809" data-criteoadid="224837961">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/AIQAAOSwdtpansXI/$_19.JPG" alt="Prądnik Biały - dwa pokoje - korzystny układ z Krakow, zobacz zdjęcie" class="thumbM"/>
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 6</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/pr%C4%85dnik-bia%C5%82y-+-dwa-pokoje-+-korzystny-uk%C5%82ad/1002248379610911036161809" >Prądnik Biały - dwa pokoje - korzystny układ</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Kraków - Prądnik Biały, ul. SzafirowaMieszkanie do wynajęcia o powierzchni użytkowej 55 m2 położone na drugim piętrze w dziesięciopiętrowym budynku z windą. Mieszkanie składa się z przedpokoju, dwóch niezależnych pokoi, kuchni oraz łazienki z WC. Do mieszkania przynależy balkon.Stan mieszkania: BARDZO DOBRY - przedpokój (podłoga: panele, zabudowana szafa), kuchnia (ściany i podłoga: flizy, meble k ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">900 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>2 godz temu</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224837961">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002248369190911316273009" data-criteoadid="224836919">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/sIcAAOSw0ABanr2y/$_19.JPG" alt="TANIE mieszkanie na Żabińcu, blisko O3 Business Campus, 2 pok., 40 m2, balkon, parking, 1500 zł z Krakow, zobacz zdjęcie" class="thumbM"/>
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 8</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/tanie-mieszkanie-na-%C5%BCabi%C5%84cu-blisko-o3-business-campus-2-pok-40-m2-balkon-parking-1500-z%C5%82/1002248369190911316273009" >TANIE mieszkanie na Żabińcu, blisko O3 Business Campus, 2 pok., 40 m2, balkon, parking, 1500 zł</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >To ustawne, przestronne i tanie mieszkanie, znajduje się w samym sercu Krakowa: ul. Żabiniec, kilka minut komunikacją miejską do Dworca Głównego!Do pobliskich większych ulic należą: Żmujdzka, Solskiego, Opolska, al. 29 Listopada.Świetna lokalizacja – w zasięgu kilku minut piechotą znajdują się m.in.– Uniwersytet Rolniczy – Wydział Biotechnologii i Ogrodnictwa,– Uniwersytet Rolniczy – Wydział Leśny ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
+					<span class="amount">1 300 zł</span>
 				
 			
 
@@ -2487,7 +2322,266 @@ pokój dz ...</div>
                              
 
                             <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224836919">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224837711">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002248313320911167662309" data-criteoadid="224831332">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDQ5WDgwMA==/z/-FQAAOSwPGdanrF4/$_19.JPG" alt="2 POKOJOWE, 35M2 BRONOWICKA, DO WŁASNEJ ARANŻACJI z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 12</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/2-pokojowe-35m2-bronowicka-do-w%C5%82asnej-aran%C5%BCacji/1002248313320911167662309" >2 POKOJOWE, 35M2 BRONOWICKA, DO WŁASNEJ ARANŻACJI</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >LOKALIZACJA:
+Mieszkanie znajduję się przy ulicy Bronowickiej, w dzielnicy Krowodrza. Jest świetnie skomunikowane z centrum miasta, gdyż 200 metrów od mieszkania jest przystanek tramwajowy Bronowice, z którego bardzo szybko i bez przesiadek dojedziesz do Alei Trzech Wieszczy, Rynku, dworca PKP, Galerii Krakowskiej, Nowego Kleparza, Kazimierz, Rondo Mogilskie, Rondo Mateczny i dalej do Borku Fałęck ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 400 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>3 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224831332">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002248149730910471588209" data-criteoadid="224814973">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjQwWDQ4MA==/z/32YAAOSwazdanpNz/$_19.JPG?set_id=2" alt="Grzegórzki dwupokojowe 39m2 wynajmiemy z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 10</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="false" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/grzeg%C3%B3rzki-dwupokojowe-39m2-wynajmiemy/1002248149730910471588209" >Grzegórzki dwupokojowe 39m2 wynajmiemy</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Kraków, Grzegórzki, ul. Szaferaprzytulne dwupokojowe39m2- powierzchnia 39 m2- dwa pokoje, oddzielna kuchnia (bez okna) , przedpokój, łazienka- mieszkanie umeblowane i wyposażone- II piętro w IV piętrowym budynku- termin dostępności do uzgodnienia- blisko do komunikacji miejskiej (Rondo Grzegórzeckie i Mogilskie), w pobliżu pełna infrastruktura, do centrum 5 minut komunikacjączynsz najmu 1450 PLN &#43; ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 450 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>6 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224814973">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -2646,18 +2740,148 @@ pokój dz ...</div>
 				
 
 					
-        <li class="result pictures" data-adid="1002248044790911149774809" data-criteoadid="224804479">
+        <li class="result pictures" data-adid="1002247872620910471588209" data-criteoadid="224787262">
         	<div class="result-link   " >
                   <div class="thumb shrtHght">
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/6bEAAOSwu-JanoMs/$_19.JPG" alt="OKAZJA! 47m2 |2 oddzielne pokoje|Żabiniec z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDgwWDY1Ng==/z/NOcAAOSwcFFanmiQ/$_19.JPG?set_id=2" alt="GRZEGÓRZKI| 1200 PLN| 2 POKOJE|  z Krakow, zobacz zdjęcie"  class="thumbM"/>
 	                            
 	                         
                             
                             
-        <div id="pht-cnt">Zdjęć: 12</div>
+        <div id="pht-cnt">Zdjęć: 1</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="false" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/grzeg%C3%B3rzki-1200-pln-2-pokoje/1002247872620910471588209" >GRZEGÓRZKI| 1200 PLN| 2 POKOJE| </a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Prezentujemy Państwu przestronne, dwupokojowe, jasne, wyposażone mieszkanie do wynajęcia (OD 11 MARCA 2018 R.), znajdujące się w centrum miasta, w dzielnicy Grzegórzki, nieopodal ulicy Kazimierza Kordylewskiego.Mieszkanie obecnie jest w trakcie remontu - wymienione zostały okna. W najbliższym czasie wstawione zostaną nowe parapety, a wszystkie ściany będą w całości odmalowane na biało.Mieszkanie u ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 200 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>9 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224787262">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002247866140911107876909" data-criteoadid="224786614">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTA1WDgwMA==/z/-o8AAOSwXu1anmUa/$_19.JPG" alt="2 pokoje przy Rondzie Mogilskim, Grzegórzeckim, ul. Sądowa, 1490 PLN z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 7</div>
     
                             </div>
                         
@@ -2665,13 +2889,144 @@ pokój dz ...</div>
                     <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
 						<div class="title">
 							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/okazja-47m2-2-oddzielne-pokoje-%C5%BCabiniec/1002248044790911149774809" >OKAZJA! 47m2 |2 oddzielne pokoje|Żabiniec</a>
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/2-pokoje-przy-rondzie-mogilskim-grzeg%C3%B3rzeckim-ul-s%C4%85dowa-1490-pln/1002247866140911107876909" >2 pokoje przy Rondzie Mogilskim, Grzegórzeckim, ul. Sądowa, 1490 PLN</a>
 							
 							
 						</div>
 						
 							
-							    <div class="description hidden" >PREMIUM ESTATES  prezentuje mieszkanie z dwoma oddzielnymi pokojami i osobną kuchnią na spokojnej ulicy Feliksa Konecznego na Żabińcu.  LOKALIZACJA:Nieruchomość położona jest w dzielnicy Krowodrza przy ul. Konecznego na Żabińcu. Nieopodal biurowce Business Parku przy Opolskiej, Quattro, Capgemini oraz Uniwersytet Rolniczy.  W pobliżu wiele punktów usługowych i handlowych. Kilka minut do przystanku ...</div>
+							    <div class="description hidden" >Do wynajęcia od zaraz dwupokojowe mieszkanie o powierzchni 57 m2 znajdujące się przy ul. Szafera w Krakowie - dzielnica Grzegórzki.Mieszkanie znajduje się przy ul. Szafera - dzielnica Grzegórzki. Ta część miasta charakteryzuje się zarówno spokojem jak i świetnie rozbudowaną infrastrukturą. W pobliżu osiedla znajdziemy różnego typu sklepy, kawiarnie i również restauracje. W odległości zaledwie 500  ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 490 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>9 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224786614">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002247754630910470661009" data-criteoadid="224775463">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/5jMAAOSw1MBanleG/$_19.JPG" alt="Kraków, Grzegórzki - 2 pokoje, na wynajem, ul. Nullo, Rondo Grzegórzeckie z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 8</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krak%C3%B3w-grzeg%C3%B3rzki-+-2-pokoje-na-wynajem-ul-nullo-rondo-grzeg%C3%B3rzeckie/1002247754630910470661009" >Kraków, Grzegórzki - 2 pokoje, na wynajem, ul. Nullo, Rondo Grzegórzeckie</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >
+		Kraków – Grzegórzki, ul. F. Nullo.Biuro Nieruchomości Tecnocasa Oddział 10 Studio Grzegórzki proponuje Państwu do wynajęcia:Mieszkanie o powierzchni 48,5m2 składające się z przedpokoju, dwóch oddzielnych pokoi, oddzielnej, jasnj kuchni, łazienki z WC oraz dużej loggii od strony południowej. Stan mieszkania: dobry. Lokal jest wyposażony we wszystkie niezbędne sprzęty (lodówka, kuchenka, pralka, ...</div>
 							
 						
 						<div class=attributes-ctnr>
@@ -2729,7 +3084,7 @@ pokój dz ...</div>
                             
                             <div class="creation-date">
                                 <span class="icon-calendar"></span>
-                                <span>7 godz temu</span>
+                                <span>10 godz temu</span>
                                 
                             </div>
                             
@@ -2747,7 +3102,7 @@ pokój dz ...</div>
                              
 
                             <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224804479">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224775463">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -2776,18 +3131,18 @@ pokój dz ...</div>
 				
 
 					
-        <li class="result pictures" data-adid="1002248005450911319565209" data-criteoadid="224800545">
+        <li class="result pictures" data-adid="1002247705820910470661009" data-criteoadid="224770582">
         	<div class="result-link   " >
                   <div class="thumb shrtHght">
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDUwWDgwMA==/z/Pq8AAOSw2xlannuM/$_19.JPG" alt="Do wynajęcia 2 pokojowe z ogródkiem/tarasem, tanio z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/TagAAOSwg25anlEi/$_19.JPG" alt="Kraków, Grzegórzki, Rondo Grzegórzeckie - 2 osobne pokoje NA WYNAJEM z Krakow, zobacz zdjęcie"  class="thumbM"/>
 	                            
 	                         
                             
                             
-        <div id="pht-cnt">Zdjęć: 9</div>
+        <div id="pht-cnt">Zdjęć: 6</div>
     
                             </div>
                         
@@ -2795,13 +3150,14 @@ pokój dz ...</div>
                     <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
 						<div class="title">
 							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/do-wynaj%C4%99cia-2-pokojowe-z-ogr%C3%B3dkiem-tarasem-tanio/1002248005450911319565209" >Do wynajęcia 2 pokojowe z ogródkiem/tarasem, tanio</a>
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krak%C3%B3w-grzeg%C3%B3rzki-rondo-grzeg%C3%B3rzeckie-+-2-osobne-pokoje-na-wynajem/1002247705820910470661009" >Kraków, Grzegórzki, Rondo Grzegórzeckie - 2 osobne pokoje NA WYNAJEM</a>
 							
 							
 						</div>
 						
 							
-							    <div class="description hidden" >Kraków, Prądnik Biały, Żabiniec.Oferta na wyłączność!!!Do wynajęcia ustawne, mieszkanie 2-pokojowe o powierzchni 38m2 znajdujące się na parterze zadbanego budynku z 2002roku, w rewelacyjnej lokalizacji!Składa się z jasnego salonu z aneksem kuchennym z wyjściem na taras ( ogródek ), sporego przedpokoju z garderobą, oddzielnej sypialni oraz łazienki z toaletą. Na podłodze w pokojach znajdują się pan ...</div>
+							    <div class="description hidden" >
+		Kraków – Grzegórzki, ul. SzaferaBiuro Nieruchomości Tecnocasa Oddział 10 Studio Grzegórzki proponuje Państwu do wynajęcia: Mieszkanie o powierzchni 48,5 m2 składające się z przedpokoju, dwóch oddzielnych pokoi, kuchni oraz łazienki z WC. Podwójna ekspozycja: PŁN – PD. Mieszkanie usytuowane na trzecim piętrze.Lokal jest wyposażony we wszystkie niezbędne sprzęty (lodówka, kuchenka, pralka itp.)  ...</div>
 							
 						
 						<div class=attributes-ctnr>
@@ -2841,7 +3197,7 @@ pokój dz ...</div>
 		
 			
 				
-					<span class="amount">1 450 zł</span>
+					<span class="amount">1 400 zł</span>
 				
 			
 
@@ -2859,7 +3215,7 @@ pokój dz ...</div>
                             
                             <div class="creation-date">
                                 <span class="icon-calendar"></span>
-                                <span>7 godz temu</span>
+                                <span>10 godz temu</span>
                                 
                             </div>
                             
@@ -2877,274 +3233,7 @@ pokój dz ...</div>
                              
 
                             <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224800545">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002247894100910471588209" data-criteoadid="224789410">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDk5WDY0MA==/z/7iwAAOSwyNBanmkG/$_19.JPG?set_id=2" alt="ŻABINIEC|48 m2|2 POKOJE| DWUPOZIOMOWE|1550 PLN z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 11</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="false" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/%C5%BCabiniec-48-m2-2-pokoje-dwupoziomowe-1550-pln/1002247894100910471588209" >ŻABINIEC|48 m2|2 POKOJE| DWUPOZIOMOWE|1550 PLN</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Prezentujemy Państwu dwupoziomowe, przestronne, po remoncie, w pełni wyposażone i umeblowane mieszkanie do wynajęcia (OD ZARAZ!), które znajduje się na osiedlu Żabiniec.Mieszkanie ulokowane jest na trzecim piętrze bloku, a jego powierzchnia całkowita wynosi 48 m2. Składa się z dwóch poziomów:POZIOM 1:- duży pokój dzienny z wyjściem na balkon;- kuchnia (nowa kuchenka elektryczna, nowa zmywarka);- t ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 550 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>9 godz temu</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224789410">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002191954680910485472009" data-criteoadid="219195468">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDUwWDgwMA==/z/7RsAAOSwCcZaS-uD/$_19.JPG" alt="Mieszkanie 2 pokoje Żabiniec (UR, Vinci, O3, Szpital Narutowicza, Jana Pawła II)  z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 8</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/mieszkanie-2-pokoje-%C5%BCabiniec-ur-vinci-o3-szpital-narutowicza-jana-paw%C5%82a-ii/1002191954680910485472009" >Mieszkanie 2 pokoje Żabiniec (UR, Vinci, O3, Szpital Narutowicza, Jana Pawła II) </a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Do wynajęcia mieszkanie położone na osiedlu Żabiniec, ul. Solskiego, 
-zlokalizowane w pobliżu Uniwersytetu Rolniczego, biurowców Vinci i 
-Quattro, Opolskiej Estakady, O3 Business Campus, szpitali Narutowicza i 
-Jana Pawła II.
-
-Mieszkanie (49,2 m2) składa się z 2 niezależnych ustawnych pokoi (19,2 i
- 11,7 m2), jasnej kuchni, przedpokoju oraz łazienki i osobnego WC. Do 
-mieszkania przynależy  ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>4-03</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="219195468">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224770582">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -3181,18 +3270,18 @@ mieszkania przynależy  ...</div>
 				
 
 					
-        <li class="result pictures" data-adid="1002245955070910518304209" data-criteoadid="224595507">
+        <li class="result pictures" data-adid="1002247716090910468388309" data-criteoadid="224771609">
         	<div class="result-link   " >
                   <div class="thumb shrtHght">
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/GxkAAOSwWMtanCE0/$_19.JPG" alt="Żabiniec nowe 2 pokojowe mieszkanie bardzo dobry standard z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/ODAwWDgwMA==/z/On0AAOSwNj9ank4M/$_19.JPG" alt="Rondo Mogilskie ul Brodowicza 1-pokojowe do wynajęcia  z Krakow, zobacz zdjęcie"  class="thumbM"/>
 	                            
 	                         
                             
                             
-        <div id="pht-cnt">Zdjęć: 6</div>
+        <div id="pht-cnt">Zdjęć: 7</div>
     
                             </div>
                         
@@ -3200,22 +3289,411 @@ mieszkania przynależy  ...</div>
                     <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
 						<div class="title">
 							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/%C5%BCabiniec-nowe-2-pokojowe-mieszkanie-bardzo-dobry-standard/1002245955070910518304209" >Żabiniec nowe 2 pokojowe mieszkanie bardzo dobry standard</a>
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/rondo-mogilskie-ul-brodowicza-1+pokojowe-do-wynaj%C4%99cia/1002247716090910468388309" >Rondo Mogilskie ul Brodowicza 1-pokojowe do wynajęcia </a>
 							
 							
 						</div>
 						
 							
-							    <div class="description hidden" >
+							    <div class="description hidden" >Do wynajęcia jednopokojowe mieszkanie w okolicy Ronda Mogilskiego przy ul Brodowicza.Mieszkanie znajduje się na pierwszym piętrze w kamienicy,Jest umeblowane i wyposażone,Pokój świeżo malowany ,umeblowanyOgrzewanie elektryczne(tańsza II taryfa)Doskonała lokalizacja Blisko komunikacja miejska , niedaleko dworzec i centrum miastakoszty 800zł - najem , dodatkowo media (woda,śmieci prąd i gaz) kontakt ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
 
-NOWE BUDOWNICTWO blok z 2017 roku,  do ścisłego centrum 2 przystanki tramwajowe.
 
-Wynajmę mieszkanie  o
-pow. 37 m2  składające się  z otwartego salonu z aneksem
-kuchennym , sypialni  i łazienki.  Mieszkanie umeblowane z wyjściem na balkon
-zarówno z salonu jak też z sypialni, ciepła woda oraz centralne ogrzewanie z
-sieci miejskie, brak gazu.
-Kuchnia wyposażona w meble w zabudowie kuchenn ...</div>
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">800 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>11 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224771609">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+						
+
+			<div class="bottomad">
+				<div id="ad-bottombanner" class="bottomadbanner adbanner"></div>
+			</div>
+
+		
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002247302550910955074209" data-criteoadid="224730255">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/ZDUAAOSwjZ5anbMx/$_19.JPG" alt="Wynajmę dwu pokojowe mieszkanie Kraków - Nowa Huta z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 8</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/wynajm%C4%99-dwu-pokojowe-mieszkanie-krak%C3%B3w-+-nowa-huta/1002247302550910955074209" >Wynajmę dwu pokojowe mieszkanie Kraków - Nowa Huta</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Komfortowe 2 pokojowe bardzo ustawne  40m2 mieszkanie w spokojnej okolicy na osiedlu Na Stoku. Tylko 15 minut autem od Ronda Mogilskiego. Wolne od 1 kwietnia 2018Mieszkanie jest  świeżo po remoncie, nowe nowoczesne umeblowanie w kuchni i dużym pokoju.  Możliwość zmiany umeblowania w małym pokoju według potrzeb. Nowy parkiet w całym mieszkaniu, nowa cała instalacja elektryczna, Nowa zmywarka, Nowy  ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 600 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>21 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224730255">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002246535590910468388309" data-criteoadid="224653559">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/ODAwWDgwMA==/z/vMoAAOSwnOVanQoh/$_19.JPG" alt="Brodowicza ok. Ronda Mogilskiego 1-pokojowe  do wynajęcia z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 8</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/brodowicza-ok-ronda-mogilskiego-1+pokojowe-do-wynaj%C4%99cia/1002246535590910468388309" >Brodowicza ok. Ronda Mogilskiego 1-pokojowe  do wynajęcia</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Do wynajęcia jednopokojowe mieszkanie w okolicy Ronda Mogilskiego przy ul BrodowiczaMieszkanie znajduje się na pierwszym piętrze w kamienicy,Jest umeblowane i wyposażone,Pokój świeżo malowany ,umeblowanyOgrzewanie elektryczne(tańsza II taryfa)Doskonała lokalizacja Blisko komunikacja miejska , niedaleko dworzec i centrum miastakoszty 800zł - najem , dodatkowo media (woda,śmieci prąd i gaz) kontakt  ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">800 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>5-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224653559">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002245591990910514325909" data-criteoadid="224559199">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/bj8AAOSwpDpam7Jb/$_19.JPG" alt="2-pok. mieszkanie ul. Cystersów ok. R. Mogilskiego właściciel z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 8</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/2+pok-mieszkanie-ul-cysters%C3%B3w-ok-r-mogilskiego-w%C5%82a%C5%9Bciciel/1002245591990910514325909" >2-pok. mieszkanie ul. Cystersów ok. R. Mogilskiego właściciel</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Do wynajęcia od zaraz mieszkanie 2-pokojowe, ok. 43 m2 bezpośrednio od właściciela.Mieszkanie znajduje się w bloku przy ulicy Cystersów 2 (przecznica od Mogilskiej) na pierwszym piętrze (blok z windą), tuż obok biurowca Meduza. Jeden przystanek tramwajowy od węzła komunikacyjnego Rondo Mogilskie, ok. 10 min piechotą do przystanku Fabryczna przy al. Pokoju. Cztery przystanki tramwajowe do Dworca Gł ...</div>
 							
 						
 						<div class=attributes-ctnr>
@@ -3291,7 +3769,7 @@ Kuchnia wyposażona w meble w zabudowie kuchenn ...</div>
                              
 
                             <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224595507">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224559199">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -3314,13 +3792,139 @@ Kuchnia wyposażona w meble w zabudowie kuchenn ...</div>
 
 					
 					
+					
 						
+					
+				
 
-			<div class="bottomad">
-				<div id="ad-bottombanner" class="bottomadbanner adbanner"></div>
-			</div>
+					
+        <li class="result pictures" data-adid="1002244527360910468620109" data-criteoadid="224452736">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDUwWDgwMA==/z/gaAAAOSwr85amVPf/$_19.JPG" alt="Mogilska /  Grunwaldzka ok Nullo  z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 9</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/mogilska-grunwaldzka-ok-nullo/1002244527360910468620109" >Mogilska /  Grunwaldzka ok Nullo </a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Okazja Grzegórzki Mieszkanie z miejskim ogrzewaniem w świetnej lokalizacji.
+
+Rejon Ronda Mogilskiego, ul. Mogilska, obok Zaleskiego, Grunwaldzka, Kielecka, F. Nullo. Tramwaj 100 metrów, sklep Żabka 50 metrów, fitness, restauracja 100 metrów, Kopernika,Uniwersytet Ekonomiczny i Opera 1 przystanek tramwajem, Galeria Krakowska / Planty 3 przystanki.
+
+Mieszkanie posiada bardzo wygodny rozkład. Pok ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
 
 		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 190 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>2-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224452736">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
 					
 					
 						
@@ -3328,32 +3932,164 @@ Kuchnia wyposażona w meble w zabudowie kuchenn ...</div>
 				
 
 					
-        <li class="result pictures" data-adid="1002243737110911270303009" data-criteoadid="224373711">
+        <li class="result pictures" data-adid="1002244458180910468620109" data-criteoadid="224445818">
         	<div class="result-link   " >
                   <div class="thumb shrtHght">
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjQwWDEwMjQ=/z/NiMAAOSw06xamVwd/$_19.JPG?set_id=2" alt="2pok 53m mieszkanie ul. Solskiego, Żabiniec z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDUwWDgwMA==/z/ClUAAOSwr21amVb7/$_19.JPG" alt="TANIE - Umeblowane, ogrzewanie miejskie - WOLNE OD ZARAZ - idealne dla pary - Centrum / Mogilska z Krakow, zobacz zdjęcie"  class="thumbM"/>
 	                            
 	                         
                             
                             
-        <div id="pht-cnt">Zdjęć: 12</div>
+        <div id="pht-cnt">Zdjęć: 10</div>
     
                             </div>
                         
                     </div>
-                    <div class="container" data-telopt="false" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
 						<div class="title">
 							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/2pok-53m-mieszkanie-ul-solskiego-%C5%BCabiniec/1002243737110911270303009" >2pok 53m mieszkanie ul. Solskiego, Żabiniec</a>
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/tanie-+-umeblowane-ogrzewanie-miejskie-+-wolne-od-zaraz-+-idealne-dla-pary-+-centrum-mogilska/1002244458180910468620109" >TANIE - Umeblowane, ogrzewanie miejskie - WOLNE OD ZARAZ - idealne dla pary - Centrum / Mogilska</a>
 							
 							
 						</div>
 						
 							
-							    <div class="description hidden" >Do wynajęcia przestronne 53m dwupokojowe mieszkanie z osobną kuchnią oraz balkonem. Ul. Solskiego, Żabiniec, dzielnica Prądnik Biały. Obok znajdują się biurowce: Vinci, Opolska, EPAM.LOKALIZACJAMieszkanie znajduje się na osiedlu Żabiniec. Kilka minut od pętli komunikacyjnej (Krowodrzy górka, Prądnicka). Linie tramwajowe (3, 5, 18, 50, 69) oraz autobusowe (102, 118, 120, 137, 154, 168, 194, 207, 21 ...</div>
+							    <div class="description hidden" >Mieszkanie z miejskim ogrzewaniem w świetnej lokalizacji.Rejon Ronda Mogilskiego, ul. Mogilska, obok Zaleskiego, Grunwaldzka, Kielecka, F. Nullo. Tramwaj 100 metrów, sklep Żabka 50 metrów, fitness, restauracja 100 metrów, Kopernika,Uniwersytet Ekonomiczny i Opera 1 przystanek tramwajem, Galeria Krakowska / Planty 3 przystanki.Mieszkanie posiada bardzo wygodny rozkład. Pokój dzienny z aneksem kuche ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 190 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>2-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224445818">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+							
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002243915870910473225109" data-criteoadid="224391587">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/7xAAAOSwaTFamPvP/$_19.JPG" alt="Dwupokojowe mieszkanie do wynajęcia- Mogilska z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 8</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/dwupokojowe-mieszkanie-do-wynaj%C4%99cia+-mogilska/1002243915870910473225109" >Dwupokojowe mieszkanie do wynajęcia- Mogilska</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Do wynajęcia mieszkanie o powierzchni 40 m2 składające się z dwóch niezależnych pokoi, osobnej kuchni, łazienki oraz przedpokoju z większego pokoju wyjście na przestronny balkon. W większym pokoju oraz przedpokoju znajdują się zabudowane szafy. W mniejszym pokoju zamykana szafa. Łazienka wyposażona w pralkę. Mieszkanie znajduje się na drugim piętrze w bloku przy ulicy Mogilskiej,Opłaty: 1500 zł cz ...</div>
 							
 						
 						<div class=attributes-ctnr>
@@ -3429,7 +4165,7 @@ Kuchnia wyposażona w meble w zabudowie kuchenn ...</div>
                              
 
                             <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224373711">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224391587">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -3458,1077 +4194,13 @@ Kuchnia wyposażona w meble w zabudowie kuchenn ...</div>
 				
 
 					
-        <li class="result pictures" data-adid="1002243243400910471494409" data-criteoadid="224324340">
+        <li class="result pictures" data-adid="1002243286870910476396909" data-criteoadid="224328687">
         	<div class="result-link   " >
                   <div class="thumb shrtHght">
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NzAwWDM5NA==/z/IKYAAOSwGINal-tL/$_19.JPG" alt="ŻABINIEC, UL. SOLSKIEGO, 49 M2, 2 POKOJE, BALKON z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 6</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/%C5%BCabiniec-ul-solskiego-49-m2-2-pokoje-balkon/1002243243400910471494409" >ŻABINIEC, UL. SOLSKIEGO, 49 M2, 2 POKOJE, BALKON</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >
-
-2
-POKOJE  NIEPRZECHODNIE, 3 PIĘTRO, KUCHNIA
-OSOBNO
-
-Zapraszamy do wynajęcia
-mieszkania 49 m2 , znajdującego się na Żabińcu, przy ulicy Solskiego, blok 4-
-piętrowy, wybudowany w 1998 roku. 
-
-Mieszkanie składa się z
-dwóch osobnych, nieprzechodnich pokoi (ok. 19 i 12 m2). W skład wyposażenia
-wchodzą 2 łóżka, szafy, biurka, krzesła, z większego pokoju wychodzi się
-bezpośrednio na balkon ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>1-03</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224324340">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002243005690910471588209" data-criteoadid="224300569">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDgwWDcyMA==/z/IdAAAOSwj4lal8Ns/$_19.JPG?set_id=2" alt="ŻABINIEC | 2 POKOJE | KONECZNEGO | 1500zł | 47m2 z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 11</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="false" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/%C5%BCabiniec-2-pokoje-konecznego-1500z%C5%82-47m2/1002243005690910471588209" >ŻABINIEC | 2 POKOJE | KONECZNEGO | 1500zł | 47m2</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >METROPOLIA NIERUCHOMOŚCI przedstawia do wynajęcia dwupokojowe mieszkanie o powierzchni 47m2 położone na 2 piętrze w bloku mieszkalnym przy ulicy KONECZNEGO. MIESZKANIE:Mieszkanie składa się z:- dwóch osobnych pokoi,- oddzielnej kuchni,- łazienki,- przedpokoju,- balkonu. Mieszkanie w pełni wyposażone oraz umeblowane (lodówka, piec elektryczny z piekarnikiem, pralka, kabina prysznicowa, mikrofala).  ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>1-03</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224300569">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002241263670910564901809" data-criteoadid="224126367">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDQ1MA==/z/jogAAOSwF~lalXGK/$_19.JPG" alt="Przestronne 2-pokojowe 2-poziomowe mieszkanie Żabiniec - 48m2 z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 12</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/przestronne-2+pokojowe-2+poziomowe-mieszkanie-%C5%BCabiniec-+-48m2/1002241263670910564901809" >Przestronne 2-pokojowe 2-poziomowe mieszkanie Żabiniec - 48m2</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Śliczne w pełni umeblowane i wyposażone (nowa pralka, nowa kuchenka elektryczna, nowa zmywarka, naczynia, garnki, odkurzacz, żelazko, deska do prasowania itp) mieszkanie na Osiedlu Żabiniec w Krakowie (ul. Frycza-Modrzewskiego). Mieszkanie o powierzchni 48 m kw. składa się z dwóch poziomów. Na pierwszym znajduje się przedpokój, kuchnia, toaleta oraz przestronny pokój dzienny z balkonem (z małą roz ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>27-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224126367">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002240909720910657540309" data-criteoadid="224090972">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMxWDgwMA==/z/hcQAAOSwuWNalSJS/$_19.JPG" alt="Mieszkanie | 2 pok. | 35 mkw | Reja 13 | Żabiniec z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 12</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/mieszkanie-2-pok-35-mkw-reja-13-%C5%BCabiniec/1002240909720910657540309" >Mieszkanie | 2 pok. | 35 mkw | Reja 13 | Żabiniec</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >ZET - INWEST proponuje:Do wynajęcia mieszkanie dwupokojowe, o powierzchni 35 m2 zlokalizowana na 6 piętrze, położone na osiedlu Żabiniec, przy ul. Mikołaja Reja.Mieszkanie składa się z przestronnego pokoju dziennego z aneksem kuchennym, sypialni, przedpokoju oraz łazienki, ładnie wykończone, jasne z dużym tarasem.Pokój dzienny z aneksem kuchennym – kanapa z możliwością rozłożenia, , stół z czterem ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 550 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>27-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224090972">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-							
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002240794510910564901809" data-criteoadid="224079451">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDQ1MA==/z/C-wAAOSwqWtalQ90/$_19.JPG" alt="Przestronne 2-pokojowe 2-poziomowe mieszkanie Żabiniec - 48m2 z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 12</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/przestronne-2+pokojowe-2+poziomowe-mieszkanie-%C5%BCabiniec-+-48m2/1002240794510910564901809" >Przestronne 2-pokojowe 2-poziomowe mieszkanie Żabiniec - 48m2</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Śliczne w pełni umeblowane i wyposażone (nowa pralka, nowa kuchenka elektryczna, nowa zmywarka, naczynia, garnki, odkurzacz, żelazko, deska do prasowania itp) mieszkanie na Osiedlu Żabiniec w Krakowie (ul. Frycza-Modrzewskiego). Mieszkanie o powierzchni 48 m kw. składa się z dwóch poziomów. Na pierwszym znajduje się przedpokój, kuchnia, toaleta oraz przestronny pokój dzienny z balkonem (z małą roz ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>27-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224079451">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002240149090910468387109" data-criteoadid="224014909">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/KfMAAOSwtdpalAfa/$_19.JPG" alt="ŻABINIEC* KONECZNEGO * 2 pokojowe 46,6m z balkonem * ogrzewanie elektryczne z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 9</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/%C5%BCabiniec-konecznego-2-pokojowe-46-6m-z-balkonem-ogrzewanie-elektryczne/1002240149090910468387109" >ŻABINIEC* KONECZNEGO * 2 pokojowe 46,6m z balkonem * ogrzewanie elektryczne</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >DO WYNAJMU oferta MW-2929Lokal mieszkalny 2 pokojowy z osobną kuchnią na I piętrze o powierzchni 46,6m na ul ŻABINIEC / KONECZNEGO ŚRÓDMIEŚCIE- PRĄDNIK CZERWONY.Mieszkanie
- składa się z 2 oddzielnych pokoi (oba pokoje z balkonami),  łazienki z 
-wanną (pralka) , przedpokoju. W pokojach na podłodze panele, w kuchni i 
-łazience, przedpokoju; terakota.Lokal mieszkalny znajduje się na I 
-piętrze, w ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 200 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>26-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224014909">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002237626140911329260309" data-criteoadid="223762614">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/PxAAAOSw4tBaj-mt/$_19.JPG" alt="EW/222 Mieszkanie do wynajęcia, Żabiniec, OKAZJA z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 9</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/ew-222-mieszkanie-do-wynaj%C4%99cia-%C5%BCabiniec-okazja/1002237626140911329260309" >EW/222 Mieszkanie do wynajęcia, Żabiniec, OKAZJA</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Biuro Nieruchomości MB HOUSE BROKER przedstawia:Do wynajęcia mieszkanie o powierzchni 25m2 zlokalizowane w nowej inwestycji CASA FELIZ przy ulicy Żabiniec/Konecznego na 1 piętrze w 5 piętrowym budynku z windą.
-Mieszkanie jednopokojowe w wysokim standardzie z niskimi kosztami administracyjnymi.
-Do mieszkania przynależny balkon o powierzchni 8m2.
-
-Wyposażenie:
-1) Zabudowa kuchenna na wymiarAGD  ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 350 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>23-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="223762614">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002206299670910921391809" data-criteoadid="220629967">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/ODAwWDUzMw==/z/yXMAAOSw5nxaYcvR/$_19.JPG" alt="2 pokojowe mieszkanie/48m*/Kraków-Prądnik Biały *ŻABINIEC* rejon ulic:Konecznego, M.Bobrzeckiej  z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 11</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/2-pokojowe-mieszkanie-48m-krak%C3%B3w+pr%C4%85dnik-bia%C5%82y-%C5%BCabiniec-rejon-ulic-konecznego-m-bobrzeckiej/1002206299670910921391809" >2 pokojowe mieszkanie/48m*/Kraków-Prądnik Biały *ŻABINIEC* rejon ulic:Konecznego, M.Bobrzeckiej </a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >WYNAJEM OFERTA MW 3956LOKALIZACJA: Kraków-Krowodrza- Prądnik Biały *ŻABINIEC* rejon ulic:Konecznego, M.Bobrzeckiej, Zdrowa, Prądnicka.OPIS NIERUCHOMOŚCI: do zaoferowania mam 2 pokojowe mieszkanie o powierzchni 48m*. Mieszkanie składa się z salonu, sypialni, oddzielnej kuchni, łazienki, hallu oraz dużego, zabudowanego balkonu. Pokoje umeblowane w: łóżko, sofa, fotele, ława, stół z krzesłami, biurko ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 400 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>16-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="220629967">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002225861060910472745909" data-criteoadid="222586106">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/WWUAAOSwlAZaftk9/$_19.JPG" alt="Umeblowane 2 pok, Żabiniec, Konecznego z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTc1WDU3Mw==/z/17MAAOSwEoxal~aD/$_19.JPG" alt="Super atrakcyjne mieszkanie do wynajęcia w Krakowie - ul. Żółkiewskiego 26/1 - CENTRUM! z Krakow, zobacz zdjęcie"  class="thumbM"/>
 	                            
 	                         
                             
@@ -4541,13 +4213,151 @@ Wyposażenie:
                     <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
 						<div class="title">
 							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/umeblowane-2-pok-%C5%BCabiniec-konecznego/1002225861060910472745909" >Umeblowane 2 pok, Żabiniec, Konecznego</a>
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/super-atrakcyjne-mieszkanie-do-wynaj%C4%99cia-w-krakowie-+-ul-%C5%BC%C3%B3%C5%82kiewskiego-26-1-+-centrum/1002243286870910476396909" >Super atrakcyjne mieszkanie do wynajęcia w Krakowie - ul. Żółkiewskiego 26/1 - CENTRUM!</a>
 							
 							
 						</div>
 						
 							
-							    <div class="description hidden" >Wynajmę ładne, umeblowane mieszkanie, usytuowane na 2 piętrze.2 pokoje, oddzielna kuchnia i łazienka, balkon.Okolica spokojna,  blisko centrum.Wolne od zaraz.Opłaty:kaucja zwrotna 2000 zł. Odstępne 1600 zł &#43; czynsz ok 200 &#43; media.Zapraszam do kontaktu 602 305 651</div>
+							    <div class="description hidden" >Zapraszamy do wynajęcia atrakcyjnego mieszkania po kapitalnym remoncie przy ul. Żółkiewskiego 26/1A w Krakowie. Tuż obok Ogród Botaniczny, 200m do Ronda Grzegórzeckiego, bardzo blisko (jeden przystanek tramwajowy) do Centrum Axis i Mogilska Office oraz do kompleksu sądów w Krakowie. 400m do pogotowia i kompleksu szpitali.W cenie mieszkania również piwnica o powierzchni 7,5m2.Mieszkanie 2 pokojowe, ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>1-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224328687">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002243157730911287880909" data-criteoadid="224315773">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAxWDgwMA==/z/2Y8AAOSwfdBal9~d/$_19.JPG" alt="Nowe mieszkanie- 2 niezależne pokoje w samym centrum- Rondo Mogilskie!  z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 9</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/nowe-mieszkanie+-2-niezale%C5%BCne-pokoje-w-samym-centrum+-rondo-mogilskie/1002243157730911287880909" >Nowe mieszkanie- 2 niezależne pokoje w samym centrum- Rondo Mogilskie! </a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Victoria Estate prezentuje 2-pokojowe mieszkanie z oddzielną kuchnią przy Rondzie Mogilskim!
+
+Nieruchomość:
+
+Mieszkanie zlokalizowane na II piętrze IV-piętrowego bloku przy ul. 
+Lotników - Śródmieście. Składa się z oddzielnej kuchni, dwóch pokoi, 
+łazienki z WC oraz przedpokoju. Umeblowane i wyposażone: kuchnia - meble
+ w zabudowie, kuchenka gazowa, piekarnik, lodówka, okap, czajnik 
+elekt ...</div>
 							
 						
 						<div class=attributes-ctnr>
@@ -4605,7 +4415,7 @@ Wyposażenie:
                             
                             <div class="creation-date">
                                 <span class="icon-calendar"></span>
-                                <span>10-02</span>
+                                <span>1-03</span>
                                 
                             </div>
                             
@@ -4623,7 +4433,272 @@ Wyposażenie:
                              
 
                             <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="222586106">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224315773">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002242856570910473225109" data-criteoadid="224285657">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/NcsAAOSwuUZal6ua/$_19.JPG" alt="Dwupokojowe mieszkanie do wynajęcia- Mogilska z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 6</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/dwupokojowe-mieszkanie-do-wynaj%C4%99cia+-mogilska/1002242856570910473225109" >Dwupokojowe mieszkanie do wynajęcia- Mogilska</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Do wynajęcia mieszkanie o powierzchni 40 m2 składające się z dwóch niezależnych pokoi, osobnej kuchni, łazienki oraz przedpokoju z większego pokoju wyjście na przestronny balkon. W większym pokoju oraz przedpokoju znajdują się zabudowane szafy. W mniejszym pokoju zamykana szafa. Łazienka wyposażona w pralkę. Mieszkanie znajduje się na drugim piętrze w bloku przy ulicy Mogilskiej,Opłaty: 1500 zł cz ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>1-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224285657">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002242042860910470572809" data-criteoadid="224204286">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/QLMAAOSwhC1alo4L/$_19.JPG" alt="Dwupokojowe koło Ronda Mogilskiego, blisko ABB z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 8</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/dwupokojowe-ko%C5%82o-ronda-mogilskiego-blisko-abb/1002242042860910470572809" >Dwupokojowe koło Ronda Mogilskiego, blisko ABB</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Dwupokojowe mieszkanie blisko Sądu, Rondo Mogilskie.
+Do wynajęcia dwupokojowe mieszkanie przy ulicy Francesco Nullo w sąsiedztwie Ronda Mogilskiego i Ronda Grzegórzeckiego.
+Lokal składa się z dwóch osobnych pokoi, jasnej kuchni, łazienki z wc i 
+przedpokoju. W dużym pokoju zabudowana loggia , dodatkowy balkon w 
+kuchni.
+Na podłogach parkiet oraz płytki ceramiczne. W łazience płytki ceramiczne ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>28-02</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224204286">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -4819,7 +4894,7 @@ Wyposażenie:
 	<span class='filterCatLoc'> 
 	
                 
-         mieszkania i domy do wynajęcia, Polska (Cena: Do zł1600, Liczba pokoi: 2 pokoje, Hasło: &quot;zabiniec&quot;)
+         mieszkania i domy do wynajęcia, Polska (Cena: Do zł1600, Liczba pokoi: 2 pokoje, Hasło: &quot;rondo mogilskie&quot;)
                     
      
 	</span>
@@ -4841,7 +4916,7 @@ Wyposażenie:
        
           
                   
-            <input type="hidden" name="q" value="zabiniec" />
+            <input type="hidden" name="q" value="rondo mogilskie" />
             
                 <input type="hidden" name="attr[nr]" value="2" />
             
@@ -4878,16 +4953,22 @@ Wyposażenie:
 	<span class="current">1</span>
     <span  class="after" >
 		
+		<a href="/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/page-2/v1c9008q0p2?nr=2&amp;pr=,1600">2</a>
+		
 	</span>
 
 	
         
+            <a class="next follows" href="/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/page-2/v1c9008q0p2?nr=2&amp;pr=,1600"><span class="icon-angle-right"></span></a>
+        
+        
+            <a class="last follows" href="/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/page-2/v1c9008q0p2?nr=2&amp;pr=,1600"><span class="icon-double-angle-right"></span></a>
         
     
 	
 	
 	
-	<p class='pagination-results-count'><span>Wyniki 1 do 20 z 20 ogłoszeń</span>
+	<p class='pagination-results-count'><span>Wyniki 1 do 20 z 36 ogłoszeń</span>
 	</p>
 
 </div>
@@ -4931,7 +5012,11 @@ Wyposażenie:
                 <ul class="resultsContainer relSearchMenu">
                     
                     <li>
-                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/poznan/kawalerka+poznan+wynajem/v1c9008l3200366q0p1">kawalerka poznań wynajem</a>
+                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krakow/kawalerka+do+wynajecia+krakow/v1c9008l3200208q0p1">kawalerka do wynajęcia kraków</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krakow/mieszkania+do+wynajecia+krakow/v1c9008l3200208q0p1">mieszkania do wynajęcia kraków</a>
                     </li>
                     
                     <li>
@@ -4939,19 +5024,15 @@ Wyposażenie:
                     </li>
                     
                     <li>
-                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krakow/krakow+mieszkania+do+wynajecia/v1c9008l3200208q0p1">kraków mieszkania do wynajęcia</a>
+                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/warszawa/warszawa+mieszkania+do+wynajecia/v1c9008l3200008q0p1">warszawa mieszkania do wynajęcia</a>
                     </li>
                     
                     <li>
-                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/wynajem+domow+i+mieszkan/v1c9008q0p1?priceType=free">wynajem domów i mieszkań</a>
+                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/katowice/wynajem+mieszkania+katowice/v1c9008l3200285q0p1">wynajem mieszkania katowice</a>
                     </li>
                     
                     <li>
-                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krakow/wynajem+mieszkan+krakow/v1c9008l3200208q0p1">wynajem mieszkań kraków</a>
-                    </li>
-                    
-                    <li>
-                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krakow/mieszkanie+krakow+wynajem/v1c9008l3200208q0p1">mieszkanie kraków wynajem</a>
+                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/kawalerka+do+wynajecia/v1c9008q0p1">kawalerka do wynajęcia</a>
                     </li>
                     
                 </ul>
@@ -5137,7 +5218,7 @@ Wyposażenie:
 
     
     <script>
-        var adList = {"nextAjaxUrl":"/galleryAjax/2?requestIndex=1","ads":[{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/ODAwWDgwMA==/z/4GAAAOSwCbxamWkL/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/jelenia-gora/kawalerka-w-centrum-jeleniej-g%C3%B3ry/1002236032020910473797209","title":"Kawalerka w centrum Jeleniej Góry","amount":"900 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMyWDgwMA==/z/mT0AAOSwuIRanVly/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/praga-poludnie/2-pokojowe-balkon-goc%C5%82aw-osiedle-strze%C5%BCone/1002247049570911126960009","title":" 2 pokojowe, balkon, Gocław, osiedle strzeżone ","amount":"2 600 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTM5WDgwMA==/z/9oUAAOSwcedanWHL/$_19.JPG","url":"/a-pokoje-do-wynajecia/poznan/du%C5%BCy-i-ma%C5%82y-pok%C3%B3j-w-centrum-poznania-3-minuty-od-przystanku-ma%C5%82e-garbary-i-5-minut-od-rynku/1002247088320910498021309","title":"Duży i mały pokój w centrum Poznania. 3 minuty od przystanku. Małe Garbary i  5 minut od Rynku","amount":"Proszę o kontakt"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMzWDgwMA==/z/EbcAAOSwsuhanTAq/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/wawer/dom-w-rado%C5%9Bci-od-r%C4%99ki/1002246835150911354410309","title":"DOM W RADOŚCI OD RĘKI","amount":"990 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NzMzWDc4Ng==/z/6UoAAOSwDVtaci9V/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/krakow/mieszkanie-3-pokoje-osobna-kuchania-%C5%82azienka-stan-deweloperski-plac-bohater%C3%B3w-getta/1002217296020911318589509","title":"MIESZKANIE 3 POKOJE OSOBNA KUCHANIA ŁAZIENKA STAN DEWELOPERSKI PLAC BOHATERÓW GETTA","amount":"549 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMxWDgwMA==/z/yk8AAOSwisZaktDo/$_19.JPG","url":"/a-lokal-i-biuro/krakow/biuro-55m2-ul-cysters%C3%B3w-9-biurowiec-klasy-a-bezpo%C5%9Brednio-od-w%C5%82a%C5%9Bciciela/1002239298050911091784509","title":"Biuro 55m2, ul. Cystersów 9, biurowiec klasy A (bezpośrednio od właściciela)","amount":"4 200 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMzWDgwMA==/z/-egAAOSwTrFah0pp/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/wroclaw/nowy-apartament-lux-glamour-full-wypos-2poziomy/1002231717190910508664809","title":"Nowy apartament/lux /glamour/full wypos/2poziomy","amount":"550 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTQwWDgwMA==/z/mVwAAOSwndZadz~3/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/krakow/pi%C4%99kne-mieszkanie-na-osiedlu-moje-eldorado/1002220325680910510092109","title":"Piękne mieszkanie na Osiedlu Moje Eldorado!","amount":"1 650 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjM5WDU1NQ==/z/m6IAAOSwFlxankWq/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/krakow/sprzedam-jednopokojowe-+-orli%C5%84skiego/1002247643500910514424109","title":"Sprzedam jednopokojowe - Orlińskiego","amount":"235 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/3XYAAOSwj2VanUJ-/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/mokotow/3-pokoje-z-2-%C5%82azienkami-i-gara%C5%BCem-os-marina/1002246918700911269469809","title":"3 pokoje z 2 łazienkami i garażem, os. Marina","amount":"3 600 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/JrcAAOSwxcRanuTC/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/bialoleka/odkryta-43-5m-2-pokoje-widna-kuchnia-osobne-wc-2-miejsca-parkingowe-cena-245-000-z%C5%82-do-uzgodnienia/1002248483530910468158309","title":"Odkryta 43,5m 2 pokoje widna kuchnia osobne WC 2 miejsca parkingowe cena 245.000,zł do uzgodnienia","amount":"Proszę o kontakt"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/BUwAAOSwUMZamlNW/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/mokotow/blisko-mordoru-od-zaraz-do-wej%C5%9Bcia-po-remoncie-ul-bry%C5%82y-bez-zwierz%C4%85t-i-os%C3%B3b-pal%C4%85cych/1002244925860910495814609","title":"Blisko Mordoru, OD ZARAZ, DO WEJŚCIA, PO REMONCIE, ul Bryły, Bez zwierząt i osób palących","amount":"1 900 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMxWDgwMA==/z/USYAAOSw-URZsVCB/$_19.JPG","url":"/a-lokal-i-biuro/krakow/biuro-100-m2-ul-cysters%C3%B3w-krak%C3%B3w-bezpo%C5%9Brednio-od-w%C5%82a%C5%9Bciciela/1002092241760911091784509","title":"Biuro 100 m2 ul. Cystersów, Kraków, bezpośrednio od właściciela.","amount":"4 500 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMzWDgwMA==/z/UdoAAOSwnsRajJmY/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/mokotow/mieszkanie-warszawa-mokot%C3%B3w-cybernetyki-2-pokoje-37m2/1002227722650911341401309","title":"MIESZKANIE WARSZAWA MOKOTÓW CYBERNETYKI 2 POKOJE 37M2","amount":"2 600 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDUwWDgwMA==/z/0V8AAOSw4aFanYh3/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/krakow/w%C5%82a%C5%9Bciciel-wynajmie-na-os-o%C5%9Bwiecenia-przy-parku-wodnym-ch-serenada-capgemini-dobrego-pasterza/1002247202330910494202909","title":"Właściciel wynajmie na os Oświecenia przy Parku Wodnym, CH Serenada, CapGemini, Dobrego Pasterza","amount":"1 450 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDAwWDYwMA==/z/pmkAAOSwlrBanl~2/$_19.JPG","url":"/a-lokal-i-biuro/srodmiescie/kuchnia-cateringowa-gastronomiczna-produkcyjna-450-m2-warszawa-i-okolice/1002247822460911079787609","title":"Kuchnia cateringowa/ gastronomiczna/ produkcyjna 450 m2 Warszawa i okolice","amount":"25 000 zł"}],"categoryId":2},
+        var adList = {"nextAjaxUrl":"/galleryAjax/2?requestIndex=1","ads":[{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDAwWDYwMA==/z/pmkAAOSwlrBanl~2/$_19.JPG","url":"/a-lokal-i-biuro/srodmiescie/kuchnia-cateringowa-gastronomiczna-produkcyjna-450-m2-warszawa-i-okolice/1002247822460911079787609","title":"Kuchnia cateringowa/ gastronomiczna/ produkcyjna 450 m2 Warszawa i okolice","amount":"25 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjM5WDU1NQ==/z/m6IAAOSwFlxankWq/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/krakow/sprzedam-jednopokojowe-+-orli%C5%84skiego/1002247643500910514424109","title":"Sprzedam jednopokojowe - Orlińskiego","amount":"235 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDUwWDgwMA==/z/0V8AAOSw4aFanYh3/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/krakow/w%C5%82a%C5%9Bciciel-wynajmie-na-os-o%C5%9Bwiecenia-przy-parku-wodnym-ch-serenada-capgemini-dobrego-pasterza/1002247202330910494202909","title":"Właściciel wynajmie na os Oświecenia przy Parku Wodnym, CH Serenada, CapGemini, Dobrego Pasterza","amount":"1 450 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMxWDgwMA==/z/USYAAOSw-URZsVCB/$_19.JPG","url":"/a-lokal-i-biuro/krakow/biuro-100-m2-ul-cysters%C3%B3w-krak%C3%B3w-bezpo%C5%9Brednio-od-w%C5%82a%C5%9Bciciela/1002092241760911091784509","title":"Biuro 100 m2 ul. Cystersów, Kraków, bezpośrednio od właściciela.","amount":"4 500 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/3XYAAOSwj2VanUJ-/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/mokotow/3-pokoje-z-2-%C5%82azienkami-i-gara%C5%BCem-os-marina/1002246918700911269469809","title":"3 pokoje z 2 łazienkami i garażem, os. Marina","amount":"3 600 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMzWDgwMA==/z/EbcAAOSwsuhanTAq/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/wawer/dom-w-rado%C5%9Bci-od-r%C4%99ki/1002246835150911354410309","title":"DOM W RADOŚCI OD RĘKI","amount":"990 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/JrcAAOSwxcRanuTC/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/bialoleka/odkryta-43-5m-2-pokoje-widna-kuchnia-osobne-wc-2-miejsca-parkingowe-cena-245-000-z%C5%82-do-uzgodnienia/1002248483530910468158309","title":"Odkryta 43,5m 2 pokoje widna kuchnia osobne WC 2 miejsca parkingowe cena 245.000,zł do uzgodnienia","amount":"Proszę o kontakt"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTM5WDgwMA==/z/9oUAAOSwcedanWHL/$_19.JPG","url":"/a-pokoje-do-wynajecia/poznan/du%C5%BCy-i-ma%C5%82y-pok%C3%B3j-w-centrum-poznania-3-minuty-od-przystanku-ma%C5%82e-garbary-i-5-minut-od-rynku/1002247088320910498021309","title":"Duży i mały pokój w centrum Poznania. 3 minuty od przystanku. Małe Garbary i  5 minut od Rynku","amount":"Proszę o kontakt"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMyWDgwMA==/z/mT0AAOSwuIRanVly/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/praga-poludnie/2-pokojowe-balkon-goc%C5%82aw-osiedle-strze%C5%BCone/1002247049570911126960009","title":" 2 pokojowe, balkon, Gocław, osiedle strzeżone ","amount":"2 600 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTQwWDgwMA==/z/mVwAAOSwndZadz~3/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/krakow/pi%C4%99kne-mieszkanie-na-osiedlu-moje-eldorado/1002220325680910510092109","title":"Piękne mieszkanie na Osiedlu Moje Eldorado!","amount":"1 650 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/ODAwWDgwMA==/z/4GAAAOSwCbxamWkL/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/jelenia-gora/kawalerka-w-centrum-jeleniej-g%C3%B3ry/1002236032020910473797209","title":"Kawalerka w centrum Jeleniej Góry","amount":"900 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMxWDgwMA==/z/yk8AAOSwisZaktDo/$_19.JPG","url":"/a-lokal-i-biuro/krakow/biuro-55m2-ul-cysters%C3%B3w-9-biurowiec-klasy-a-bezpo%C5%9Brednio-od-w%C5%82a%C5%9Bciciela/1002239298050911091784509","title":"Biuro 55m2, ul. Cystersów 9, biurowiec klasy A (bezpośrednio od właściciela)","amount":"4 200 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMzWDgwMA==/z/UdoAAOSwnsRajJmY/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/mokotow/mieszkanie-warszawa-mokot%C3%B3w-cybernetyki-2-pokoje-37m2/1002227722650911341401309","title":"MIESZKANIE WARSZAWA MOKOTÓW CYBERNETYKI 2 POKOJE 37M2","amount":"2 600 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NzMzWDc4Ng==/z/6UoAAOSwDVtaci9V/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/krakow/mieszkanie-3-pokoje-osobna-kuchania-%C5%82azienka-stan-deweloperski-plac-bohater%C3%B3w-getta/1002217296020911318589509","title":"MIESZKANIE 3 POKOJE OSOBNA KUCHANIA ŁAZIENKA STAN DEWELOPERSKI PLAC BOHATERÓW GETTA","amount":"549 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMzWDgwMA==/z/-egAAOSwTrFah0pp/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/wroclaw/nowy-apartament-lux-glamour-full-wypos-2poziomy/1002231717190910508664809","title":"Nowy apartament/lux /glamour/full wypos/2poziomy","amount":"550 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/ODAwWDU5Nw==/z/zooAAOSw~rZanX1E/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/wroclaw/wynajm%C4%99-3-pokojowe-mieszkanie-na-kozanowie/1002247167680911354389909","title":"wynajmę 3 pokojowe mieszkanie na Kozanowie","amount":"1 800 zł"}],"categoryId":2},
             dataPostLink="/post.html",
             dataPostAdText='Zobacz swoje ogłoszenie',
             
@@ -5278,7 +5359,7 @@ Wyposażenie:
 			
 			<script src="https://www.google.com/adsense/search/async-ads.js" type="text/javascript"></script>
 			<script type="text/javascript" charset="utf-8">
-				var x = {"desktopNumAdsTop":"3","desktopNumAdsBottom":"5","mobileNumAdsTop":"3","mobileNumAdsBottom":"5","numRepeated":"3","mobilePubId":"mobile-gumtree-pl","desktopPubId":"gumtree-pl","longerHeadlines":false,"mobileSiteLinks":false,"desktopSiteLinks":true,"channel":"PL_SRP_L2","query":"zabiniec  Nieruchomości mieszkania i domy do wynajęcia Polska","hl":"pl","adtest":"off","adPage":"1","colorTitleLink":"#333","rolloverAdBackgroundColor":"#FFFFF0","mobileClickableBackground":false};
+				var x = {"desktopNumAdsTop":"3","desktopNumAdsBottom":"5","mobileNumAdsTop":"3","mobileNumAdsBottom":"5","numRepeated":"3","mobilePubId":"mobile-gumtree-pl","desktopPubId":"gumtree-pl","longerHeadlines":false,"mobileSiteLinks":false,"desktopSiteLinks":true,"channel":"PL_SRP_L2","query":"rondo mogilskie  Nieruchomości mieszkania i domy do wynajęcia Polska","hl":"pl","adtest":"off","adPage":"1","colorTitleLink":"#333","rolloverAdBackgroundColor":"#FFFFF0","mobileClickableBackground":false};
 		        
 		        var defaultBlock = {
 		             'lines':'3',

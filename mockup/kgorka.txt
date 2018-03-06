@@ -194,6 +194,8 @@
    
    	
 			
+			
+				<link rel="next" href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krowodrza+gorka/page-2/v1c9008q0p2?nr=2&amp;pr=,1600" />
 			 
     
 
@@ -267,9 +269,9 @@
 
 	dl["s"]={};
 	dl["s"]["kw"] = "krowodrza gorka";
-	dl["s"]["tr"] = "20";
+	dl["s"]["tr"] = "29";
 	dl["s"]["pn"] = "1";
-	dl["s"]["tp"] = "1";
+	dl["s"]["tp"] = "2";
 	dl["s"]["ps"] = "20";
 
 	// In order to the unity of the 1.0 and 2.0
@@ -288,102 +290,102 @@
 	
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224367630 ;
+			ssr_oa["id"] =224846392 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
-			ssr_oa["id"] =224349348 ;
+			ssr_oa["id"] =224844670 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224839331 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224820439 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224801995 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224798003 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224780495 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224767672 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224767171 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224726764 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224695086 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224649332 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224642142 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224602163 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224585977 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224570365 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =221955500 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224514517 ;
+			ssr_oa["ftr"] =[];
+			dl["s"]["sr_oa"].push(ssr_oa);
+		
+			ssr_oa = {};
+			ssr_oa["id"] =224411530 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
 			ssr_oa = {};
 			ssr_oa["id"] =224325617 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =224321382 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =224319072 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =224296751 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =224216270 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =224194316 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =224040264 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =224032733 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =223847932 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =223796515 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =223369701 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =222715744 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =222653202 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =222185650 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =222141062 ;
-			ssr_oa["ftr"] =["TOP_AD"];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =222026236 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =221821826 ;
-			ssr_oa["ftr"] =[];
-			dl["s"]["sr_oa"].push(ssr_oa);
-		
-			ssr_oa = {};
-			ssr_oa["id"] =221601113 ;
 			ssr_oa["ftr"] =[];
 			dl["s"]["sr_oa"].push(ssr_oa);
 		
@@ -856,7 +858,7 @@
 
 
             <span class="count">
-					Aktywnych ogłoszeń: 20
+					Aktywnych ogłoszeń: 29
 			</span>
         
     </div>
@@ -906,66 +908,49 @@
         solrQuery : 
         -->
         
-            <ul class="resultsContainer selMenu selMenuLong ">
-                
+            <ul class="resultsContainer selMenu ">
                 
                     <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/mieszkanie+krowodrza+gorka/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">mieszkanie krowodrza gorka</a>
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/mieszkanie+krowodrza+gorka/v1c9008q0p1">mieszkanie krowodrza gorka</a>
                         
                             
-                                
+                                <span class="arrow icon-caret-down brDesk"></span>
                             
                         
                     </li>
                 
                     <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/pokoj+krowodrza+gorka/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">pokoj krowodrza gorka</a>
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/pokoj+krowodrza+gorka/v1c9008q0p1">pokoj krowodrza gorka</a>
                         
-                            <span class="arrow icon-caret-down brDesk"></span>
-                        
-                    </li>
-                
-                    <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/mieszkanie+krakow+krowodrza+gorka/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">mieszkanie krakow krowodrza gorka</a>
-                        
-                            
-                                
                             
                         
                     </li>
                 
                     <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/garaz+krowodrza+gorka/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">garaz krowodrza gorka</a>
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/mieszkanie+krakow+krowodrza+gorka/v1c9008q0p1">mieszkanie krakow krowodrza gorka</a>
                         
                             
                                 
+                                    <span class="arrow icon-caret-down brIpad"></span>
+                                
+                            
+                        
+                    </li>
+                
+                    <li class="nav-item nonJsOnlyInlineBlock showArrow">
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/garaz+krowodrza+gorka/v1c9008q0p1">garaz krowodrza gorka</a>
+                        
                             
                         
                     </li>
                 
                     <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/krowodrza+gorka+torre/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">krowodrza gorka torre</a>
+                        <a href="/s-mieszkania-i-domy-do-wynajecia/krowodrza+gorka+torre/v1c9008q0p1">krowodrza gorka torre</a>
                         
-                            
-                                
-                                    
-                                        <span class="arrow icon-caret-down brFullDesk"></span>
-                                    
-                                
                             
                         
                     </li>
                 
-                    <li class="nav-item nonJsOnlyInlineBlock">
-                        <a href="/s-mieszkania-i-domy-do-wynajecia/zmywarka+krowodrza+gorka/v1c9008q0p1" data-gtm="pc|NavFooterClick|eventLabel|popular">zmywarka krowodrza gorka</a>
-                        
-                            
-                                
-                            
-                        
-                    </li>
-                
-              
             </ul>
         
     </div>
@@ -1202,7 +1187,7 @@
 					<span class="text">mieszkania i domy do wynajęcia</span>
            			
 	
-		<span class="count" data-count="20">20</span>
+		<span class="count" data-count="29">29</span>
 	
 
                
@@ -1241,7 +1226,7 @@
 						<span class="text">Polska</span>
 	           			
 	
-		<span class="count" data-count="20">20</span>
+		<span class="count" data-count="29">29</span>
 	
 
 	               
@@ -1257,7 +1242,7 @@
 		                                <span class="text"><a href="/s-mieszkania-i-domy-do-wynajecia/malopolskie/krowodrza+gorka/v1c9008l3200003q0p1?nr=2&amp;pr=,1600">Małopolskie</a></span>
 		                                
 	
-		<span class="count" data-count="20">20</span>
+		<span class="count" data-count="29">29</span>
 	
 
 		                            </li>
@@ -1467,7 +1452,7 @@
 			       		
 		                <span class="text" ><a href="/s-mieszkania-i-domy-do-wynajecia/krowodrza+gorka/mieszkanie/v1c9008q0a1dwp1?nr=2&amp;pr=,1600">Mieszkanie</a></span>
 			       		
-		                <span class="count" data-count="20">20</span>
+		                <span class="count" data-count="29">29</span>
 		            </li>
 	            
 	        
@@ -1546,7 +1531,7 @@
 			       		
 		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/xebjbqemn+tbexn/i1p9008d0c1?ae=2&amp;ce=,1600&amp;on=10">1 łazienka</span>
 			       		
-		                <span class="count" data-count="17">17</span>
+		                <span class="count" data-count="26">26</span>
 		            </li>
 	            
 	        
@@ -1613,7 +1598,7 @@
 			       		
 		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/xebjbqemn+tbexn/i1p9008d0c1?ae=2&amp;ce=,1600&amp;cn=fgerg">Ulica</span>
 			       		
-		                <span class="count" data-count="5">5</span>
+		                <span class="count" data-count="11">11</span>
 		            </li>
 	            
 	        
@@ -1664,7 +1649,7 @@
 			       		
 		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/xebjbqemn+tbexn/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fz=1">Tak</span>
 			       		
-		                <span class="count" data-count="3">3</span>
+		                <span class="count" data-count="7">7</span>
 		            </li>
 	            
 	        
@@ -1675,7 +1660,7 @@
 			       		
 		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/xebjbqemn+tbexn/i1p9008d0c1?ae=2&amp;ce=,1600&amp;fz=0">Nie</span>
 			       		
-		                <span class="count" data-count="5">5</span>
+		                <span class="count" data-count="10">10</span>
 		            </li>
 	            
 	        
@@ -1721,14 +1706,21 @@
 			       		
 		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/xebjbqemn+tbexn/i1p9008d0c1?ae=2&amp;ce=,1600&amp;cs=1">Tak</span>
 			       		
-		                <span class="count" data-count="4">4</span>
+		                <span class="count" data-count="9">9</span>
 		            </li>
 	            
 	        
             
             
-	        	
-            
+	            
+		            <li class="selectOption">
+			       		
+		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/xebjbqemn+tbexn/i1p9008d0c1?ae=2&amp;ce=,1600&amp;cs=0">Nie</span>
+			       		
+		                <span class="count" data-count="3">3</span>
+		            </li>
+	            
+	        
             
             
     <li class="text showmore collapse">
@@ -1773,7 +1765,7 @@
 			       		
 		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/xebjbqemn+tbexn/i1p9008d0c1?ae=2&amp;ce=,1600&amp;se=bjae">Właściciel</span>
 			       		
-		                <span class="count" data-count="9">9</span>
+		                <span class="count" data-count="16">16</span>
 		            </li>
 	            
 	        
@@ -1784,7 +1776,7 @@
 			       		
 		                <span class='text sudo-link' data-o-uri="/f-zvrfmxnavn-v-qbzl-qb-jlanwrpvn/xebjbqemn+tbexn/i1p9008d0c1?ae=2&amp;ce=,1600&amp;se=ntapl">Agencja</span>
 			       		
-		                <span class="count" data-count="10">10</span>
+		                <span class="count" data-count="12">12</span>
 		            </li>
 	            
 	        
@@ -2094,13 +2086,13 @@ Kontakt tel. 608397459</div>
 				
 
 					
-        <li class="result pictures" data-adid="1002243676300911208320509" data-criteoadid="224367630">
+        <li class="result pictures" data-adid="1002248463920911208320509" data-criteoadid="224846392">
         	<div class="result-link   " >
                   <div class="thumb shrtHght">
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDUwWDgwMA==/z/aPsAAOSw68lamGpe/$_19.JPG" alt="2 POKOJE *** 50 M2 *** UL. KLUCZBORSKA **** KROWODRZA GÓRKA z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDUwWDgwMA==/z/a9oAAOSw0KJanuWa/$_19.JPG" alt="50 M2 ^^^ KROWODRZA GÓRKA ^^^ UL. KLUCZBORSKA ^^^ 2 POKOJE z Krakow, zobacz zdjęcie" class="thumbM"/>
 	                         
                             
                             
@@ -2112,13 +2104,13 @@ Kontakt tel. 608397459</div>
                     <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
 						<div class="title">
 							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/2-pokoje-50-m2-ul-kluczborska-krowodrza-g%C3%B3rka/1002243676300911208320509" >2 POKOJE *** 50 M2 *** UL. KLUCZBORSKA **** KROWODRZA GÓRKA</a>
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/50-m2-krowodrza-g%C3%B3rka-ul-kluczborska-2-pokoje/1002248463920911208320509" >50 M2 ^^^ KROWODRZA GÓRKA ^^^ UL. KLUCZBORSKA ^^^ 2 POKOJE</a>
 							
 							
 						</div>
 						
 							
-							    <div class="description hidden" >Mieszkanie dwupokojowe z kuchnią, łazienką i balkonem, o powierzchni 50 m2 z miejscem postojowym w garażu. Mieszkanie na 3-cim piętrze z dostępem do windy. Wyposażone w komplet mebli kuchennych z lodówką, kompletem wypoczynkowym w pokoju dziennym, wersalką w sypialni, dwiema szafami i meblościanką.OPŁATY: 1300 PLN &#43; 600 PLN &#43; prądTEL: 536-395-146Nr ogłoszenia: 762</div>
+							    <div class="description hidden" >KROWODRZA GÓRKA ^^^ Mieszkanie dwupokojowe z kuchnią, łazienką i balkonem, o powierzchni 50 m2 z miejscem postojowym w garażu. Mieszkanie na 3-cim piętrze z dostępem do windy. Wyposażone w komplet mebli kuchennych z lodówką, kompletem wypoczynkowym w pokoju dziennym, wersalką w sypialni, dwiema szafami i meblościanką.OPŁATY: 1300 PLN &#43; 600 PLN &#43; prądTEL: 536-395-146Nr ogłoszenia: 762</div>
 							
 						
 						<div class=attributes-ctnr>
@@ -2176,7 +2168,7 @@ Kontakt tel. 608397459</div>
                             
                             <div class="creation-date">
                                 <span class="icon-calendar"></span>
-                                <span>28 min temu</span>
+                                <span>17 min temu</span>
                                 
                             </div>
                             
@@ -2194,7 +2186,7 @@ Kontakt tel. 608397459</div>
                              
 
                             <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224367630">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224846392">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -2223,17 +2215,17 @@ Kontakt tel. 608397459</div>
 				
 
 					
-        <li class="result pictures" data-adid="1002243493480911315299209" data-criteoadid="224349348">
+        <li class="result pictures" data-adid="1002248446700911208184909" data-criteoadid="224844670">
         	<div class="result-link   " >
                   <div class="thumb shrtHght">
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDY4WDc2MA==/z/wzMAAOSwLXtamB95/$_19.JPG" alt="P.Biały|Opolska|Akamai/Heineken|2 pok.|1500zł|ENG z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/MTA2NFg4MDA=/z/epYAAOSwawBantyw/$_19.JPG" alt="UL. FRYCZA MODRZEWSKIEGO +++ 50 M2 +++ ŻABINIEC +++ DWUPOKOJOWE z Krakow, zobacz zdjęcie" class="thumbM"/>
 	                         
                             
                             
-        <div id="pht-cnt">Zdjęć: 9</div>
+        <div id="pht-cnt">Zdjęć: 7</div>
     
                             </div>
                         
@@ -2241,13 +2233,276 @@ Kontakt tel. 608397459</div>
                     <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
 						<div class="title">
 							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/p-bia%C5%82y-opolska-akamai-heineken-2-pok-1500z%C5%82-eng/1002243493480911315299209" >P.Biały|Opolska|Akamai/Heineken|2 pok.|1500zł|ENG</a>
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/ul-frycza-modrzewskiego-%2B%2B%2B-50-m2-%2B%2B%2B-%C5%BCabiniec-%2B%2B%2B-dwupokojowe/1002248446700911208184909" >UL. FRYCZA MODRZEWSKIEGO &#43;&#43;&#43; 50 M2 &#43;&#43;&#43; ŻABINIEC &#43;&#43;&#43; DWUPOKOJOWE</a>
 							
 							
 						</div>
 						
 							
-							    <div class="description hidden" >AN ENGLISH DESCRIPTION BELOWOferuję Państwu pięknie urządzone 2 pokojowe mieszkanie do wynajęcia w dzielnicy Prądnik Biały przy ulicy Krowoderskich Zuchów w cenie 1500 zł.MIESZKANIEMieszkanie znajduje się na 3 piętrze, a jego powierzchnia wynosi 35 m2, na co składają się:- wyposażona kuchnia (meble w zabudowie, lodówka z zamrażarką, piekarnik, płyta indukcyjna, czajnik, zlew, okap),- salon (rozkła ...</div>
+							    <div class="description hidden" >KROWODRZA GÓRKA **** Śliczne w pełni umeblowane i wyposażone (nowa pralka, nowa kuchenka 
+elektryczna, nowa zmywarka, naczynia, garnki, odkurzacz, żelazko, deska 
+do prasowania itp) mieszkanie na Osiedlu Żabiniec w Krakowie (ul. 
+Frycza-Modrzewskiego). Mieszkanie o powierzchni 50 m2 składa się z dwóch poziomów. Na 
+pierwszym znajduje się przedpokój, kuchnia, toaleta oraz przestronny 
+pokój dz ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 600 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>55 min temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224844670">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002248393310910468334809" data-criteoadid="224839331">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDk1WDgwMA==/z/MFsAAOSwdzRansT-/$_19.JPG" alt="Wysłouchów, 2-pokojowe z balkonem, stan bardzo dobry, 1500 zł z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 4</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/wys%C5%82ouch%C3%B3w-2+pokojowe-z-balkonem-stan-bardzo-dobry-1500-z%C5%82/1002248393310910468334809" >Wysłouchów, 2-pokojowe z balkonem, stan bardzo dobry, 1500 zł</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Kraków - Kurdwanów, ul. Wysłouchów / Cena: 1500 złMieszkanie na piątym piętrze w pięciopiętrowym bloku z 2001r, o powierzchni użytkowej 56m2 na wynajem, składające się z 2 przedpokojów, 2 pokoi, kuchni, łazienki z WC, balkonu, piwnicy.Stan mieszkania: BARDZO DOBRY - przedpokój (podłoga: flizy, szafa), pokój I (podłoga: parkiet, umeblowanie, TV, okna oryginalne drewniane próżniowe), Pokój II (podło ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>2 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224839331">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002248204390910775503509" data-criteoadid="224820439">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/GZAAAOSw06xanpsB/$_19.JPG" alt="Ul. Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard! z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 12</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/ul-meiera-+-mieszkanie-2-pokojowe-do-wynaj%C4%99cia-+-wysoki-standard/1002248204390910775503509" >Ul. Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!Prądnik Biały (Górka Narodowa Wschód)Kraków, ul. Ks. MeieraLOKALIZACJA:Mieszkanie znajduje się przy ul. Ks. Meiera w Krakowie. Cicha, spokojna okolica a zarazem doskonała lokalizacja. Dojazd do centrum Krakowa zajmuje ok. 15-20 min.Wokół pełna infrastruktura: przedszkole, żłobek, plac zabaw, apteka, sklepy, punkty usługowe, pry ...</div>
 							
 						
 						<div class=attributes-ctnr>
@@ -2323,7 +2578,2020 @@ Kontakt tel. 608397459</div>
                              
 
                             <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224349348">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224820439">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002248019950911315299209" data-criteoadid="224801995">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NDY4WDc2MA==/z/m28AAOSwazdanoAR/$_19.JPG" alt="P.Biały|Opolska|Akamai/Heineken|2 pok.|1500zł|ENG z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 9</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/p-bia%C5%82y-opolska-akamai-heineken-2-pok-1500z%C5%82-eng/1002248019950911315299209" >P.Biały|Opolska|Akamai/Heineken|2 pok.|1500zł|ENG</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >AN ENGLISH DESCRIPTION BELOWOferuję Państwu pięknie urządzone 2 pokojowe mieszkanie do wynajęcia w dzielnicy Prądnik Biały przy ulicy Krowoderskich Zuchów w cenie 1500 zł.MIESZKANIEMieszkanie znajduje się na 3 piętrze, a jego powierzchnia wynosi 35 m2, na co składają się:- wyposażona kuchnia (meble w zabudowie, lodówka z zamrażarką, piekarnik, płyta indukcyjna, czajnik, zlew, okap),- salon (rozkła ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>7 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224801995">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002247980030910775503509" data-criteoadid="224798003">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/0bgAAOSwg25annTn/$_19.JPG" alt="Prądnik Biały - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard! - Kraków, ul. Ks. Meiera z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 12</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/pr%C4%85dnik-bia%C5%82y-+-mieszkanie-2-pokojowe-do-wynaj%C4%99cia-+-wysoki-standard-+-krak%C3%B3w-ul-ks-meiera/1002247980030910775503509" >Prądnik Biały - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard! - Kraków, ul. Ks. Meiera</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Prądnik Biały (Górka Narodowa Wschód)Kraków, ul. Ks. MeieraLOKALIZACJA:Mieszkanie znajduje się przy ul. Ks. Meiera w Krakowie. Cicha, spokojna okolica a zarazem doskonała lokalizacja. Dojazd do centrum Krakowa zajmuje ok. 15-20 min.Wokół pełna infrastruktura: przedszkole, żłobek, plac zabaw, apteka, sklepy, punkty usługowe, prywatna przychodnia lekarska, stomatolog, poczta, fryzjer, weterynarz, si ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>8 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224798003">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002247804950910474824109" data-criteoadid="224780495">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/ODAwWDYwMA==/z/5L8AAOSwCXhanmEr/$_19.JPG" alt="Wynajmę 2-pokojowe ul.F-Nila 9 (kolo pętli Krowodrza-Górka) z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 7</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/wynajm%C4%99-2+pokojowe-ul-f+nila-9-kolo-p%C4%99tli-krowodrza+g%C3%B3rka/1002247804950910474824109" >Wynajmę 2-pokojowe ul.F-Nila 9 (kolo pętli Krowodrza-Górka)</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Wynajmę mieszkanie 2-pokojowym ul.F-Nila 9 z balkonem (pokoje samodzielne ) umeblowane i wyposażone.Budynek nowy położony niedaleko pętli Krowodrza-Górka ( dogodne połączenia komunikacyjne) Ogrzewanie i ciepła woda miejskie.Dostępny od 1 marca 2018.Cena 1500 PLN&#43; 600PLN mediaTel.573339984</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>9 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224780495">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002247676720910775503509" data-criteoadid="224767672">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/ODAwWDUzMw==/z/-vgAAOSwerdank08/$_19.JPG" alt="ul. Meiera, Kraków, od właściciela MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard! z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 12</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/ul-meiera-krak%C3%B3w-od-w%C5%82a%C5%9Bciciela-mieszkanie-2-pokojowe-do-wynaj%C4%99cia-+-wysoki-standard/1002247676720910775503509" >ul. Meiera, Kraków, od właściciela MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Prądnik Biały (Górka Narodowa Wschód)Kraków, ul. Ks. Meiera 20dLOKALIZACJA:Mieszkanie znajduje się przy ul. Ks. Meiera w Krakowie. Cicha, spokojna okolica a zarazem doskonała lokalizacja. Dojazd do centrum Krakowa zajmuje ok. 15-20 min.Wokół pełna infrastruktura: przedszkole, żłobek, plac zabaw, apteka, sklepy, punkty usługowe, prywatna przychodnia lekarska, stomatolog, poczta, fryzjer, weterynarz ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>11 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224767672">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002247671710910517619809" data-criteoadid="224767171">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/V8kAAOSwRHVankxP/$_19.JPG" alt="Ul. Fieldorfa Nila, Pętla tramwajowa Krowodrza Górka, 2-pokojowe, Właściciel z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 11</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/ul-fieldorfa-nila-p%C4%99tla-tramwajowa-krowodrza-g%C3%B3rka-2+pokojowe-w%C5%82a%C5%9Bciciel/1002247671710910517619809" >Ul. Fieldorfa Nila, Pętla tramwajowa Krowodrza Górka, 2-pokojowe, Właściciel</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >
+
+Tel.
+: 600-301-837.
+
+Mieszkanie
+wynajmie właściciel.
+
+Przy
+pętli tramwajowej i autobusowej Krowodrza Górka. 
+
+Nowy
+budynek wybudowany kilkanaście lat temu. W budynku nowoczesna winda, brak gazu.
+
+Wynajmę
+mieszkanie 2-pokojowe 31 m2 umeblowane i wyposażone (duży pokój z balkonem i
+wyposażonym aneksem kuchennym, mały pokój sypialnia, przedpokój, łazienka z wanną
+i pralką automatyc ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 300 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>11 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224767171">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+						
+	    
+	        
+	            <div id="div-gpt-ad-midbanner" class="midbanner"></div>
+	        
+	    
+	
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002247267640910775503509" data-criteoadid="224726764">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/OFoAAOSwEtFanZ~V/$_19.JPG" alt="| Bez prowizji (od właściciela) | ul. Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA od zaraz z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 12</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/bez-prowizji-od-w%C5%82a%C5%9Bciciela-ul-meiera-+-mieszkanie-2-pokojowe-do-wynaj%C4%99cia-od-zaraz/1002247267640910775503509" >| Bez prowizji (od właściciela) | ul. Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA od zaraz</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!
+
+Prądnik Biały (Górka Narodowa Wschód)
+Kraków, ul. Ks. Meiera
+
+LOKALIZACJA:
+Mieszkanie znajduje się przy ul. Ks. Meiera w Krakowie. Cicha, spokojna okolica a zarazem doskonała lokalizacja. Dojazd do centrum Krakowa zajmuje ok. 15-20 min.
+Wokół pełna infrastruktura: przedszkole, żłobek, plac zabaw, apteka, sklepy, punkty ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>23 godz temu</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224726764">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+						
+
+			<div class="bottomad">
+				<div id="ad-bottombanner" class="bottomadbanner adbanner"></div>
+			</div>
+
+		
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002246950860910469562609" data-criteoadid="224695086">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/ODAwWDYwMA==/z/bEYAAOSwzANanUg7/$_19.JPG" alt="KROWODRZA,ŁOBZÓW,AGH,UP 2 pokojowe po remoncie z panoramicznym widokiem wolne od zaraz! z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 5</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-%C5%82obz%C3%B3w-agh-up-2-pokojowe-po-remoncie-z-panoramicznym-widokiem-wolne-od-zaraz/1002246950860910469562609" >KROWODRZA,ŁOBZÓW,AGH,UP 2 pokojowe po remoncie z panoramicznym widokiem wolne od zaraz!</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Kraków – Krowodrza - ul.
+SkarbińskiegoDo wynajęcia słoneczne
+mieszkanie na VIII piętrze składające się z przedpokoju, oddzielnej kuchni, 2
+pokoi i łazienki. Blok ogrodzony z 2 windami. Ogrzewanie i ciepła woda miejska. Istnieje możliwość dodatkowe
+wyposażenia mieszkania.
+
+Finanse: 1400 PLN odstępne &#43; czynsz administracyjny 500 PLN (w tym woda,
+ogrzewanie, śmieci) &#43; media (prąd i gaz w kuche ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 400 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>5-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224695086">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002246493320910775503509" data-criteoadid="224649332">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/8usAAOSwYlVanQNf/$_19.JPG" alt="Ul. Meiera - Mieszkanie 2 pokojowe do wynajęcia - wysoki standard - od zaraz - Prądnik Biały z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 12</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/ul-meiera-+-mieszkanie-2-pokojowe-do-wynaj%C4%99cia-+-wysoki-standard-+-od-zaraz-+-pr%C4%85dnik-bia%C5%82y/1002246493320910775503509" >Ul. Meiera - Mieszkanie 2 pokojowe do wynajęcia - wysoki standard - od zaraz - Prądnik Biały</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Prądnik Biały (Górka Narodowa Wschód)Kraków, ul. Ks. MeieraLOKALIZACJA:Mieszkanie znajduje się przy ul. Ks. Meiera w Krakowie. Cicha, spokojna okolica a zarazem doskonała lokalizacja. Dojazd do centrum Krakowa zajmuje ok. 15-20 min.Wokół pełna infrastruktura: przedszkole, żłobek, plac zabaw, apteka, sklepy, punkty usługowe, prywatna przychodnia lekarska, stomatolog, poczta, fryzjer, weterynarz, si ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>5-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224649332">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002246421420910468366009" data-criteoadid="224642142">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/8cEAAOSweRhanPjQ/$_19.JPG" alt="Azory - mieszkanie 2 pokojowe, kompletnie umeblowane, po remoncie z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 9</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/azory-+-mieszkanie-2-pokojowe-kompletnie-umeblowane-po-remoncie/1002246421420910468366009" >Azory - mieszkanie 2 pokojowe, kompletnie umeblowane, po remoncie</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Kraków Azory  ul. Palacha - do wynajęcia zadbane mieszkanie 2  -pokojowe blisko Parku KrowoderskiegoOferujemy do wynajęcia   mieszkanie o powierzchni 37 m2 położone na 2 piętrze w bloku. Składa się z pokoju dziennego, aneksu kuchennego, sypialni, łazienki oraz przedpokoju. Kompletnie umeblowane i wyposażone. Ogrzewanie i ciepła woda z sieci miejskiej.Mieszkanie jest wyremontowane, zadbane. Okna pl ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 350 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>5-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224642142">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002246021630910775503509" data-criteoadid="224602163">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/ODAwWDUzMw==/z/7qEAAOSwWYhanEnG/$_19.JPG" alt="Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard! z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 12</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krak%C3%B3w-+-meiera-+-mieszkanie-2-pokojowe-do-wynaj%C4%99cia-+-wysoki-standard/1002246021630910775503509" >Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!Prądnik Biały (Górka Narodowa Wschód)Kraków, ul. Ks. MeieraLOKALIZACJA:Mieszkanie znajduje się przy ul. Ks. Meiera w Krakowie. Cicha, spokojna okolica a zarazem doskonała lokalizacja. Dojazd do centrum Krakowa zajmuje ok. 15-20 min.Wokół pełna infrastruktura: przedszkole, żłobek, plac zabaw, apteka, sklepy, punkty usługowe, pry ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>4-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224602163">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002245859770910507828509" data-criteoadid="224585977">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/8jgAAOSwHCFanAkt/$_19.JPG" alt="Dwupokojowe tanio - Azory dobrze skomunikowane z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 8</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/dwupokojowe-tanio-+-azory-dobrze-skomunikowane/1002245859770910507828509" >Dwupokojowe tanio - Azory dobrze skomunikowane</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Bezpośrednio od właściciela: Cena najmu 1200 zł, czynsz 350 zł, 38 m kw., 7 piętro w 10 - piętrowym. Umeblowane, pralka, lodówka, kuchenka z piekarnikiem. Łazienka po remoncie. Ogrzewanie miejskie w cenie. Do opłat dochodzą media wg odczytu liczników - około 100 miesięcznie, zależnie od zużycia.Spod bloku darmowy autobus: 5 minut do centrum handlowego: Castorama, Ikea, Makro, Galeria Bronowice, Li ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 200 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>4-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224585977">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+							
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002245703650910775503509" data-criteoadid="224570365">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/~XgAAOSwYlVam9VU/$_19.JPG" alt="ul. Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA od zaraz - Wysoki standard z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 12</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/ul-meiera-+-mieszkanie-2-pokojowe-do-wynaj%C4%99cia-od-zaraz-+-wysoki-standard/1002245703650910775503509" >ul. Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA od zaraz - Wysoki standard</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!Prądnik Biały (Górka Narodowa Wschód)Kraków, ul. Ks. MeieraLOKALIZACJA:Mieszkanie znajduje się przy ul. Ks. Meiera w Krakowie. Cicha, spokojna okolica a zarazem doskonała lokalizacja. Dojazd do centrum Krakowa zajmuje ok. 15-20 min.Wokół pełna infrastruktura: przedszkole, żłobek, plac zabaw, apteka, sklepy, punkty usługowe, pry ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>4-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224570365">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002219555000910979430209" data-criteoadid="221955500">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/qm0AAOSwusdadaFf/$_19.JPG" alt="Krowodrza Górka z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 5</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka/1002219555000910979430209" >Krowodrza Górka</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >2 oddzielne pokoje ,osobna kuchnia,łazienka z wanną, balkon, 1 piętro  blok 10 piętrowym.
+Mieszkanie umeblowane i wyposażone w sprzęt AGD.
+Centralne ogrzewanie.
+Bardzo dobra lokalizacja. Pętla tramwajowo-autobusowa Krowodrza Górka w pobliżu,dużo zieleni.Parking na ulicy.
+W sąsiedztwie wiele sklepów i punktów usługowych.
+
+Cena 1500  plus opłaty. Kaucja w wysokości miesięcznego czynszu. Wolne  ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 500 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>3-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="221955500">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002245145170911298429509" data-criteoadid="224514517">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMwWDgwMA==/z/HCYAAOSwYRhamovw/$_19.JPG" alt="Azory Krowodrza Kraków 2 pok. 37m2 od kwietnia 2018, 1300 zł + opłaty z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 9</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/azory-krowodrza-krak%C3%B3w-2-pok-37m2-od-kwietnia-2018-1300-z%C5%82-%2B-op%C5%82aty/1002245145170911298429509" >Azory Krowodrza Kraków 2 pok. 37m2 od kwietnia 2018, 1300 zł &#43; opłaty</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Wyremontowane w 2016, 37m2, 2-pokojowe słoneczne w pełni wyposażone mieszkanie znajdujące się
+na osiedlu Azory w spokojnym i pełnym zieleni otoczeniu.
+
+Do wynajęcia bezpośrednio od właściciela od kwietnia 2018 roku – tel. 697868345
+
+W skład mieszkania wchodzą:
+
+mniejszy pokój (łóżko 160x200cm, półki oraz szafę garderobę 200x236x60cm),
+większy pokój (rozkładana kanapa 140x200cm, biurko, reg ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 300 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>3-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224514517">
+                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
+                                </div>
+                                
+                                
+                                <div class="ui-btn-reply-container">
+                                    <button class="button reply ui-btn-reply enabled">
+                                        <span class="icon-envelope-alt-white envIcon"></span>
+                                    </button>
+                                </div>
+                                
+                            </div>
+					</div>
+
+                    
+                </div>
+			</li>
+
+
+					
+
+					
+					
+					
+						
+					
+				
+
+					
+        <li class="result pictures" data-adid="1002244115300911303762109" data-criteoadid="224411530">
+        	<div class="result-link   " >
+                  <div class="thumb shrtHght">
+                        
+                        	<div id="img-cnt">
+	                        
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTM0WDgwMA==/z/jNkAAOSw74FamRni/$_19.JPG" alt="Krowodrza Górka 1200 zł 58m2, 2 osobne pokoje z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
+	                         
+                            
+                            
+        <div id="pht-cnt">Zdjęć: 11</div>
+    
+                            </div>
+                        
+                    </div>
+                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
+						<div class="title">
+							
+							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka-1200-z%C5%82-58m2-2-osobne-pokoje/1002244115300911303762109" >Krowodrza Górka 1200 zł 58m2, 2 osobne pokoje</a>
+							
+							
+						</div>
+						
+							
+							    <div class="description hidden" >Kraków-Krowodrza ul. Fieldorfa Nila do wynajęcia mieszkanie 58 m2Adrian Bury Tel: 574 559 485MIESZKANIE  Jego metraż liczy 58 m2 na co składa się :- 2 osobne pokoje- osobna kuchnia- przedpokój - łazienka z toaletą, - balkonCena 1200 odstępne, czynsz administracyjny 500 zł i prąd, gaz według zużycia DODATKOWE INFORMACJE- ogrzewanie z sieci miejskiej - mieszkania dostępne od 01.03.2018- dogodne połą ...</div>
+							
+						
+						<div class=attributes-ctnr>
+	                        
+								
+
+
+							
+						</div>
+						
+						
+	
+
+					    
+						<div class="info">
+							<div class="price">
+							
+								
+
+
+	
+
+	
+
+		
+
+
+
+
+
+	
+	
+    	
+        	<span class="value">
+        
+    
+		
+			
+				
+					<span class="amount">1 200 zł</span>
+				
+			
+
+			
+			
+			
+			
+		</span>
+
+
+
+							
+							</div>
+
+                            
+                            <div class="creation-date">
+                                <span class="icon-calendar"></span>
+                                <span>2-03</span>
+                                
+                            </div>
+                            
+						</div>	
+						
+						 <div class="category-location">
+				         
+		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
+		                  
+					   </div>
+					     
+					    
+						<div class="meta-info"></div>
+						
+                             
+
+                            <div class="reply-action">
+                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224411530">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -2358,7 +4626,8 @@ Kontakt tel. 608397459</div>
                         
                         	<div id="img-cnt">
 	                        
-	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDQ1MA==/z/jcQAAOSwdXtal-zl/$_19.JPG" alt="KROWODRZA GÓRKA, UL. FIELDORFA NILA, 31 M2, 2 POKOJE, BALKON  z Krakow, zobacz zdjęcie" class="thumbM"/>
+	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDQ1MA==/z/jcQAAOSwdXtal-zl/$_19.JPG" alt="KROWODRZA GÓRKA, UL. FIELDORFA NILA, 31 M2, 2 POKOJE, BALKON  z Krakow, zobacz zdjęcie"  class="thumbM"/>
+	                            
 	                         
                             
                             
@@ -2443,7 +4712,7 @@ elektryczna, z salo ...</div>
                             
                             <div class="creation-date">
                                 <span class="icon-calendar"></span>
-                                <span>9 godz temu</span>
+                                <span>1-03</span>
                                 
                             </div>
                             
@@ -2462,2282 +4731,6 @@ elektryczna, z salo ...</div>
 
                             <div class="reply-action">
                                 <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224325617">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002243213820910471494409" data-criteoadid="224321382">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDMzOA==/z/mSIAAOSwHCFal-fy/$_19.JPG" alt="KROWODRZA GÓRKA, UL. ZDROWA, 42 M2, 2 POKOJE, BALKON z Krakow, zobacz zdjęcie" class="thumbM"/>
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 8</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka-ul-zdrowa-42-m2-2-pokoje-balkon/1002243213820910471494409" >KROWODRZA GÓRKA, UL. ZDROWA, 42 M2, 2 POKOJE, BALKON</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >
-
-2 POKOJE NIEPRZECHODNIE, IV PIĘTRO, KUCHNIA OSOBNO
-
-Zapraszamy do wynajmu dwupokojowego mieszkania znajdującego się
-na Krowodrzy Górce przy ulicy Zdrowej, przecznica od ul. Prądnickiej. Składa
-się ono z 2 pokoi nieprzechodnich
-(ok. 16 i 9 m). Większy posiada na wyposażeniu sofę, kanapę, kilka szaf,
-wychodzi się z niego bezpośrednio na balkon. W mniejszym znajdziemy jedno
-spanie i szafę. ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 200 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>9 godz temu</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224321382">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002243190720910471494409" data-criteoadid="224319072">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDQ1MA==/z/BS0AAOSwgVBal-ZF/$_19.JPG" alt="KROWODRZA GÓRKA, UL. KROWODERSKICH ZUCHÓW, 30 M2, 2 POKOJE z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 8</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka-ul-krowoderskich-zuch%C3%B3w-30-m2-2-pokoje/1002243190720910471494409" >KROWODRZA GÓRKA, UL. KROWODERSKICH ZUCHÓW, 30 M2, 2 POKOJE</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >
-
-DWUPOKOJOWE
-MIESZKANIE, KUCHNIA OSOBNO, BALKON, 3 PIĘTRO, WINDA
-
-
-
-Zapraszamy do wynajmu dwupokojowego mieszkania na
-Krowodrzy Górce, przy ulicy Krowoderskich Zuchów. Lokal składa się z dużego
-pokoju, w którym znajdziemy rozkładaną kanapę, dwa fotele, szafę. Kuchnia jest zabudowana
-meblami na wymiar, posiada lodówkę oraz kuchenkę gazową. Do mniejszego pokoju
-(przeznaczonego np. dla dz ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 150 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>9 godz temu</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224319072">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002242967510910775503509" data-criteoadid="224296751">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTMzWDgwMA==/z/vEgAAOSwPoNal71B/$_19.JPG" alt="MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Kraków, ul. Meiera z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 12</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/mieszkanie-2-pokojowe-do-wynaj%C4%99cia-+-krak%C3%B3w-ul-meiera/1002242967510910775503509" >MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Kraków, ul. Meiera</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!Prądnik Biały (Górka Narodowa Wschód)Kraków, ul. Ks. MeieraLOKALIZACJA:Mieszkanie znajduje się przy ul. Ks. Meiera w Krakowie. Cicha, spokojna okolica a zarazem doskonała lokalizacja. Dojazd do centrum Krakowa zajmuje ok. 15-20 min.Wokół pełna infrastruktura: przedszkole, żłobek, plac zabaw, apteka, sklepy, punkty usługowe, pry ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>12 godz temu</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224296751">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002242162700910517619809" data-criteoadid="224216270">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/5sYAAOSwr5Zalqiw/$_19.JPG" alt="Krowodrza Górka Pętla tramwajowa, ul. Fieldorfa Nila, 600-301-837, Właściciel z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 11</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka-p%C4%99tla-tramwajowa-ul-fieldorfa-nila-600+301+837-w%C5%82a%C5%9Bciciel/1002242162700910517619809" >Krowodrza Górka Pętla tramwajowa, ul. Fieldorfa Nila, 600-301-837, Właściciel</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >
-
-Tel.
-: 600-301-837.
-
-Mieszkanie
-wynajmie właściciel.
-
-Przy
-pętli tramwajowej i autobusowej Krowodrza Górka. 
-
-Nowy
-budynek wybudowany kilkanaście lat temu. W budynku nowoczesna winda, brak gazu.
-
-Wynajmę
-mieszkanie 2-pokojowe 31 m2 umeblowane i wyposażone (duży pokój z balkonem i
-wyposażonym aneksem kuchennym, mały pokój sypialnia, przedpokój, łazienka z wanną
-i pralką automatyc ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 300 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>28-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224216270">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002241943160910775503509" data-criteoadid="224194316">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/ODAwWDUzMw==/z/KBQAAOSwL9talnS5/$_19.JPG" alt="Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard! z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 12</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krak%C3%B3w-+-meiera-+-mieszkanie-2-pokojowe-do-wynaj%C4%99cia-+-wysoki-standard/1002241943160910775503509" >Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Kraków - Meiera - MIESZKANIE 2 pokojowe DO WYNAJĘCIA - Wysoki standard!Prądnik Biały (Górka Narodowa Wschód)Kraków, ul. Ks. MeieraLOKALIZACJA:Mieszkanie znajduje się przy ul. Ks. Meiera w Krakowie. Cicha, spokojna okolica a zarazem doskonała lokalizacja. Dojazd do centrum Krakowa zajmuje ok. 15-20 min.Wokół pełna infrastruktura: przedszkole, żłobek, plac zabaw, apteka, sklepy, punkty usługowe, pry ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>28-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224194316">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002240402640911303762109" data-criteoadid="224040264">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTM0WDgwMA==/z/RFUAAOSw8bpalEoO/$_19.JPG" alt="Krowodrza Górka 1200 zł 58m2, 2 osobne pokoje  z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 12</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka-1200-z%C5%82-58m2-2-osobne-pokoje/1002240402640911303762109" >Krowodrza Górka 1200 zł 58m2, 2 osobne pokoje </a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Kraków-Krowodrza ul. Fieldorfa Nila do wynajęcia mieszkanie 58 m2Adrian Bury Tel: 574 559 485MIESZKANIE  Jego metraż liczy 58 m2 na co składa się :- 2 osobne pokoje- osobna kuchnia- przedpokój - łazienka z toaletą, - balkonCena 1200 odstępne, czynsz administracyjny 500 zł i prąd, gaz według zużycia DODATKOWE INFORMACJE- ogrzewanie z sieci miejskiej - mieszkania dostępne od 01.03.2018- dogodne połą ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 200 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>26-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224040264">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-						
-	    
-	        
-	            <div id="div-gpt-ad-midbanner" class="midbanner"></div>
-	        
-	    
-	
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002240327330910468366009" data-criteoadid="224032733">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/PJ4AAOSwnkdalC8x/$_19.JPG" alt="ul. Palacha - umeblowane mieszkanie 2 pokojowe, 2 piętro z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 10</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/ul-palacha-+-umeblowane-mieszkanie-2-pokojowe-2-pi%C4%99tro/1002240327330910468366009" >ul. Palacha - umeblowane mieszkanie 2 pokojowe, 2 piętro</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Kraków ( Azory) ul. Palacha -do wynajęcia zadbane mieszkanie 2  -pokojowe blisko Parku Krowoderskiego - niedaleko pętla tramwajowa Krowodrza Górka, stacja kolei podmiejskiej  Kraków Łobzów  Oferujemy do wynajęcia   mieszkanie o powierzchni 37 m2 położone na 2 piętrze w bloku. Składa się z pokoju dziennego, aneksu kuchennego, sypialni, łazienki oraz przedpokoju. Kompletnie umeblowane i wyposażone.  ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 350 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>26-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="224032733">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-						
-
-			<div class="bottomad">
-				<div id="ad-bottombanner" class="bottomadbanner adbanner"></div>
-			</div>
-
-		
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002238479320910471588209" data-criteoadid="223847932">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NzAwWDM5NA==/z/PgIAAOSwyRdakUe1/$_19.JPG?set_id=2" alt="Mieszkanie Kraków Krowodrza 31m2 (nr: 281228) z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 5</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="false" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/mieszkanie-krak%C3%B3w-krowodrza-31m2-nr-281228/1002238479320910471588209" >Mieszkanie Kraków Krowodrza 31m2 (nr: 281228)</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Prezentujemy Państwu na wynajem dwupokojowe mieszkanie zlokalizowane w apartamentowcu w dzielnicy Krowodrza Górka/ul. Poznańska . Całkowita powierzchnia mieszkania wynosi 31m2 a w jej skład wchodzą:-przestronny salon z całkowicie wyposażonym aneksem kuchennym;-osobny pokój z wygodnym łóżkiem ,szafą i biurkiem(kwestia zmiany wyposażenia do ustalenia z wynajmującym); -duża łazienka z prysznicem,pral ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 550 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>24-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="223847932">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002237965150910993998309" data-criteoadid="223796515">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDQ1MA==/z/p4YAAOSw2r5akDra/$_19.JPG" alt="Krowodrza Górka, ul. Prądnicka! wolne od 01.03, 2 pokoje z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 6</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka-ul-pr%C4%85dnicka-wolne-od-01-03-2-pokoje/1002237965150910993998309" >Krowodrza Górka, ul. Prądnicka! wolne od 01.03, 2 pokoje</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Witam, do wynajęcia mieszkanie dwupokojowe (pokoje o wymiarach - 18 m2 i 8 m2), idealne dla trzech osób, przestronne, umeblowane, wolne od 01.03.2018, c.o., woda ciepła - mpec.Zachęcam do oglądnięcia - możliwość negocjacji okresu umowy.Jednorazowa kaucja - jednomiesięczny czynsz.cena 1600 zł &#43; media wg zużycia wraz z internetem</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 600 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>23-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="223796515">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002233697010910469562609" data-criteoadid="223369701">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/y7kAAOSwPOhairM3/$_19.JPG" alt="KROWODRZA,ŁOBZÓW,AGH,UP 2 pokojowe po remoncie z panoramicznym widokiem wolne od zaraz! z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 6</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-%C5%82obz%C3%B3w-agh-up-2-pokojowe-po-remoncie-z-panoramicznym-widokiem-wolne-od-zaraz/1002233697010910469562609" >KROWODRZA,ŁOBZÓW,AGH,UP 2 pokojowe po remoncie z panoramicznym widokiem wolne od zaraz!</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Kraków – Krowodrza - ul.
-SkarbińskiegoDo wynajęcia słoneczne
-mieszkanie na VIII piętrze składające się z przedpokoju, oddzielnej kuchni, 2
-pokoi i łazienki. Blok ogrodzony z 2 windami. Ogrzewanie i ciepła woda miejska. Istnieje możliwość dodatkowe
-wyposażenia mieszkania.
-
-Finanse: 1400 PLN odstępne &#43; czynsz administracyjny 500 PLN (w tym woda,
-ogrzewanie, śmieci) &#43; media (prąd i gaz w kuche ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 400 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>19-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="223369701">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002227157440910471588209" data-criteoadid="222715744">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NzAwWDM5Mg==/z/fb4AAOSw57xagWed/$_19.JPG?set_id=8800005007" alt="Mieszkanie Kraków Krowodrza, Azory 41m2 (nr: 279130) z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 7</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="false" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/mieszkanie-krak%C3%B3w-krowodrza-azory-41m2-nr-279130/1002227157440910471588209" >Mieszkanie Kraków Krowodrza, Azory 41m2 (nr: 279130)</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Prezentujemy Państwu na wynajem przestronne mieszkanie z dwoma osobnymi pokojami , zlokalizowane na pierwszym piętrze bloku w dzielnicy Krowodrza Górka/Azory przy ul. Radzikowskiego.Całkowita powierzchnia mieszkania wynosi 41m2 a w jej skład wchodzą:-przestronna,osobna kuchnia wyposażona w niezbędny sprzęt agd;-dwa osobne,nieprzechodnie pokoje jeden pełniący funkcje salonu ze skórzanym narożnikiem ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>12-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="222715744">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002226532020910993998309" data-criteoadid="222653202">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/Mzg0WDUxMg==/z/mJwAAOSwXEdagE-Q/$_19.JPG" alt="Krowodrza Górka, Prądnicka wolne od 1.03.18! z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 7</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka-pr%C4%85dnicka-wolne-od-1-03-18/1002226532020910993998309" >Krowodrza Górka, Prądnicka wolne od 1.03.18!</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Witam, do wynajęcia mieszkanie dwupokojowe (pokoje o wymiarach - 18 m2 i 8 m2), idealne dla trzech osób, przestronne, umeblowane, wolne od 01.03.2018, c.o., woda ciepła - mpec.Zachęcam do oglądnięcia - możliwość negocjacji okresu umowy.Jednorazowa kaucja - jednomiesięczny czynsz.cena 1600 zł &#43; media (ok. 150zł) wraz z internetem. </div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 600 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>11-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="222653202">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-							
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002221856500910470128809" data-criteoadid="222185650">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/DBwAAOSwIspaeWdS/$_19.JPG" alt="Dwa pokoje w dobrej cenie,ul.Piotra Stachiewicza z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 6</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/dwa-pokoje-w-dobrej-cenie-ul-piotra-stachiewicza/1002221856500910470128809" >Dwa pokoje w dobrej cenie,ul.Piotra Stachiewicza</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Agencja Nieruchomości TECNOCASA prezentuje na wynajem mieszkanie zlokalizowane przy ul.Piotra Stachiewicza.-400 m od przystanku kolejki miejskiej PKP Łobzów-1 km od pętli autobusowej Azory-1,4 km od pętli tramwajowej Krowodrza Górka-4,8 km od ścisłego centrumMieszkanie znajduje się na czwartym piętrze w czteropiętrowym bloku z lat 70.Składa się z dwóch osobnych pokoi,osobnej kuchni,łazienki o raz  ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 000 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>6-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="222185650">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002221410620910979430209" data-criteoadid="222141062">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/nhMAAOSwZFdaeJWe/$_19.JPG" alt="Krowodrza Górka z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 5</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka/1002221410620910979430209" >Krowodrza Górka</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >2 oddzielne pokoje,osobna jasna kuchnia,łazienka z wanna,balkon,1pietro blok 10 piętrowy. Mieszkanie umeblowane i wyposażone w sprzęt AGD. 
-Centralne ogrzewanie
-Bardzo dobra lokalizacja. W pobliżu pętla tramwajowo -autobusowa, dużo zieleni,sklepy i punkty usługowe.
-Cena 1500 &#43;opłaty ( czynsz Ok 400 &#43; woda,gaz,prąd).Kaucja w wysokości miesięcznego czynszu. Wolne od zaraz.
-Kontakt tel. 608397459</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 500 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>5-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="222141062">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002220262360910993998309" data-criteoadid="222026236">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/Mzg0WDUxMg==/z/C-EAAOSwm~dadyWl/$_19.JPG" alt="Krowodrza Górka, ul. Prądnicka! wolne od 01.03, 2 pokoje! z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 9</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/krowodrza-g%C3%B3rka-ul-pr%C4%85dnicka-wolne-od-01-03-2-pokoje/1002220262360910993998309" >Krowodrza Górka, ul. Prądnicka! wolne od 01.03, 2 pokoje!</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Witam, do wynajęcia mieszkanie dwupokojowe (pokoje o wymiarach - 18 m2 i 8 m2), idealne dla trzech osób, przestronne, umeblowane, wolne od 01.03.2018, c.o., woda ciepła - mpec.Zachęcam do oglądnięcia - możliwość negocjacji okresu umowy.Jednorazowa kaucja - jednomiesięczny czynsz.cena 1600 zł &#43; media (ok. 150zł) wraz z internetem. </div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 600 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>4-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="222026236">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002218218260911335069609" data-criteoadid="221821826">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NjAwWDgwMA==/z/aUoAAOSwK6pac1wa/$_19.JPG" alt="Piękne mieszkanie, Krowodrza Górka z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 10</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/pi%C4%99kne-mieszkanie-krowodrza-g%C3%B3rka/1002218218260911335069609" >Piękne mieszkanie, Krowodrza Górka</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Do wynajęcia mieszkanie o powierzchni 61m2, na ulicy Rusznikarskiej 12a (Krowodrza Górka).
-Znajduje się w zadbanym bloku, na piątym piętrze bez windy.  Mieszkanie otwarte, posiada piękną antresolę, wyposażone w podstawowe urządzenia codziennego użytku, tj. lodówkę, kuchenkę, piekarnik, pralkę. Jest bardzo przestronne, dobrze oświetlone, posiada taras o powierzchni 25m2, z widokiem na centrum Krak ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 600 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>1-02</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="221821826">
-                                    <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
-                                </div>
-                                
-                                
-                                <div class="ui-btn-reply-container">
-                                    <button class="button reply ui-btn-reply enabled">
-                                        <span class="icon-envelope-alt-white envIcon"></span>
-                                    </button>
-                                </div>
-                                
-                            </div>
-					</div>
-
-                    
-                </div>
-			</li>
-
-
-					
-
-					
-					
-					
-						
-					
-				
-
-					
-        <li class="result pictures" data-adid="1002216011130910981293309" data-criteoadid="221601113">
-        	<div class="result-link   " >
-                  <div class="thumb shrtHght">
-                        
-                        	<div id="img-cnt">
-	                        
-	                             <img src="https://securet9.classistatic.com/1.1.560/images//loading.gif" data-src="https://img.classistatic.com/crop/75x50/i.ebayimg.com/00/s/NTM0WDgwMA==/z/tIUAAOSwuHdacHzk/$_19.JPG" alt="Niezależne 2-pok Pętla Krowodrza Górka z Krakow, zobacz zdjęcie"  class="thumbM"/>
-	                            
-	                         
-                            
-                            
-        <div id="pht-cnt">Zdjęć: 12</div>
-    
-                            </div>
-                        
-                    </div>
-                    <div class="container" data-telopt="true" data-cannedkeys="[vip.reply.canned.imInterested, vip.reply.canned.whenWhereICanSeeIt]">
-						<div class="title">
-							
-							    <a class="href-link" href="/a-mieszkania-i-domy-do-wynajecia/krakow/niezale%C5%BCne-2+pok-p%C4%99tla-krowodrza-g%C3%B3rka/1002216011130910981293309" >Niezależne 2-pok Pętla Krowodrza Górka</a>
-							
-							
-						</div>
-						
-							
-							    <div class="description hidden" >Do wynajęcia od zaraz, 2-pokojowe mieszkanie o powierzchni 50m2 przy ulicy Batalionu Skała AK tuż przy przystanku komunikacji miejskiej! LOKALIZACJA:W sąsiedztwie znajduje się pętla autobusowa i tramwajowa Krowodrza Górka. Okolica jest bezpieczna i spokojna. Atrakcyjna lokalizacja daje możliwość szybkiego dotarcia do Centrum, Galerii Krakowskiej czy też do większości krakowskich uczelni. Najlepiej ...</div>
-							
-						
-						<div class=attributes-ctnr>
-	                        
-								
-
-
-							
-						</div>
-						
-						
-	
-
-					    
-						<div class="info">
-							<div class="price">
-							
-								
-
-
-	
-
-	
-
-		
-
-
-
-
-
-	
-	
-    	
-        	<span class="value">
-        
-    
-		
-			
-				
-					<span class="amount">1 600 zł</span>
-				
-			
-
-			
-			
-			
-			
-		</span>
-
-
-
-							
-							</div>
-
-                            
-                            <div class="creation-date">
-                                <span class="icon-calendar"></span>
-                                <span>30-01</span>
-                                
-                            </div>
-                            
-						</div>	
-						
-						 <div class="category-location">
-				         
-		                        <span> mieszkania i domy do wynajęcia , Kraków</span>
-		                  
-					   </div>
-					     
-					    
-						<div class="meta-info"></div>
-						
-                             
-
-                            <div class="reply-action">
-                                <div class="addAdTofav " data-synchurl = "https://www.gumtree.pl/rui-api/synchwatchlist/model/synch/pl_PL" data-adid="221601113">
                                     <span class="starIcon icon-star-icon-gray-line" data-toggle-class="icon-star-icon-gray-line icon-star-icon"></span>
                                 </div>
                                 
@@ -4992,16 +4985,22 @@ Znajduje się w zadbanym bloku, na piątym piętrze bez windy.  Mieszkanie otwar
 	<span class="current">1</span>
     <span  class="after" >
 		
+		<a href="/s-mieszkania-i-domy-do-wynajecia/krowodrza+gorka/page-2/v1c9008q0p2?nr=2&amp;pr=,1600">2</a>
+		
 	</span>
 
 	
         
+            <a class="next follows" href="/s-mieszkania-i-domy-do-wynajecia/krowodrza+gorka/page-2/v1c9008q0p2?nr=2&amp;pr=,1600"><span class="icon-angle-right"></span></a>
+        
+        
+            <a class="last follows" href="/s-mieszkania-i-domy-do-wynajecia/krowodrza+gorka/page-2/v1c9008q0p2?nr=2&amp;pr=,1600"><span class="icon-double-angle-right"></span></a>
         
     
 	
 	
 	
-	<p class='pagination-results-count'><span>Wyniki 1 do 20 z 20 ogłoszeń</span>
+	<p class='pagination-results-count'><span>Wyniki 1 do 20 z 29 ogłoszeń</span>
 	</p>
 
 </div>
@@ -5049,23 +5048,23 @@ Znajduje się w zadbanym bloku, na piątym piętrze bez windy.  Mieszkanie otwar
                     </li>
                     
                     <li>
-                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/gniezno/mieszkania+do+wynajecia+gniezno/v1c9008l3200345q0p1">mieszkania do wynajęcia gniezno</a>
+                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/warszawa/mieszkania+do+wynajecia+warszawa/v1c9008l3200008q0p1">mieszkania do wynajecia warszawa</a>
                     </li>
                     
                     <li>
-                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/warszawa/wynajem+mieszkan+warszawa/v1c9008l3200008q0p1">wynajem mieszkań warszawa</a>
+                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/wroclaw/wynajem+mieszkania+wroclaw/v1c9008l3200114q0p1">wynajem mieszkania wrocław</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/poznan/kawalerki+do+wynajecia+poznan/v1c9008l3200366q0p1">kawalerki do wynajęcia poznań</a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/mieszkanie+do+wynajecia/v1c9008q0p1">mieszkanie do wynajecia</a>
                     </li>
                     
                     <li>
                         <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/wroclaw/mieszkanie+wroclaw+wynajem/v1c9008l3200114q0p1">mieszkanie wrocław wynajem</a>
-                    </li>
-                    
-                    <li>
-                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/pd-+-zach-powiaty/mieszkania+do+wynajecia+pruszkow/v1c9008l3200044q0p1">mieszkania do wynajęcia pruszków</a>
-                    </li>
-                    
-                    <li>
-                        <a href="https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/poznan/mieszkania+do+wynajecia+poznan/v1c9008l3200366q0p1">mieszkania do wynajęcia poznań</a>
                     </li>
                     
                 </ul>
@@ -5251,7 +5250,7 @@ Znajduje się w zadbanym bloku, na piątym piętrze bez windy.  Mieszkanie otwar
 
     
     <script>
-        var adList = {"nextAjaxUrl":"/galleryAjax/2?requestIndex=1","ads":[{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMxWDgwMA==/z/cIoAAOSwAa5akbDP/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/mokotow/2-pokoje-+-36-m2-od-zaraz-mokot%C3%B3w-metro-rac%C5%82awicka-+-bezpo%C5%9Brednio/1002238759070910505704809","title":"2 pokoje - 36 m2 od zaraz, Mokotów, Metro Racławicka - bezpośrednio","amount":"2 500 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTkxWDc4OA==/z/rWUAAOSwIixalewS/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/krakow/kazimierz-2+pok-bezpo%C5%9Brednio-krak%C3%B3w-kazimierz-ul-meiselsa-mieszkanie-do-wynaj%C4%99cia/1002216294910911333135009","title":"KAZIMIERZ, 2-pok. bezpośrednio, Kraków, Kazimierz ul.Meiselsa, mieszkanie do wynajęcia","amount":"2 200 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDUwWDgwMA==/z/9b4AAOSwLwBabian/$_19.JPG","url":"/a-parking-i-garaz/legnica/garaze-blaszane-garaz-blaszak-blaszany/1002214089170910496741309","title":"Garaze blaszane garaz blaszak blaszany","amount":"5 598 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/iNgAAOSw7-pal0aZ/$_19.JPG","url":"/a-lokal-i-biuro/ochota/do-wynaj%C4%99cia-gr%C3%B3jecka-216-lokal-u%C5%BCytkowy-commercial-property-local-commercial-gesch%C3%A4ftslokal/1002242607140911351813509","title":"Do wynajęcia Grójecka 216 Lokal użytkowy / commercial property / local commercial / Geschäftslokal ","amount":"8 775 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/ODAwWDYwMA==/z/GH8AAOSwrbtakvX2/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/katowice/piekna-kawalerka-32m2-balkon-+-fajna-lokalizacja-klimzowiec/1002239366780911194974609","title":"Piekna Kawalerka 32m2 Balkon - Fajna Lokalizacja Klimzowiec","amount":"1 100 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/kCYAAOSwqfZabipL/$_19.JPG","url":"/a-parking-i-garaz/legnica/garaze-blaszane-garaz-blaszak-blaszany-wiaty-hale/1002214082420910496741309","title":"Garaze blaszane garaz blaszak blaszany wiaty hale","amount":"5 498 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDUwWDgwMA==/z/Ac4AAOSwD39abi2Q/$_19.JPG","url":"/a-parking-i-garaz/legnica/garaze-blaszane-garaz-blaszak-blaszany-wiaty-hale/1002214101180910496741309","title":"Garaze blaszane garaz blaszak blaszany wiaty hale","amount":"Proszę o kontakt"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/bpwAAOSwPN1amB9K/$_19.JPG","url":"/a-parking-i-garaz/wesola/miejsce-postojowe-w-gara%C5%BCu-podziemnym-weso%C5%82a-centrum-700-m-skm/1002243510080910562371509","title":"Miejsce Postojowe w Garażu Podziemnym Wesoła Centrum 700 m SKM","amount":"149 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/PlIAAOSwMgZal7yZ/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/poznan/mieszkanie-r%C3%B3wnie%C5%BC-jako-inwestycja-7-roczna-stopa-zwrotu/1002242970730910484769309","title":"Mieszkanie również jako inwestycja 7% roczna stopa zwrotu","amount":"195 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDYxWDYxNA==/z/RUwAAOSw2C1al9SU/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/wola/umeblowane-i-wyposa%C5%BCone-2+pokojowe-mieszkanie-40m2-w-cichym-zak%C4%85tku-woli/1002243110510911352325909","title":"Umeblowane i wyposażone 2-pokojowe mieszkanie 40m2 w cichym zakątku Woli","amount":"1 700 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTQ4WDgwMA==/z/C0kAAOSw5WVal-PP/$_19.JPG","url":"/a-dzialki/duszniki-zdroj/dzia%C5%82ka-inwestycyjna-duszniki-zdr%C3%B3j/1002243192490910850907809","title":"Działka Inwestycyjna Duszniki Zdrój","amount":"1 390 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/U1QAAOSwcedal0WW/$_19.JPG","url":"/a-lokal-i-biuro/ochota/do-wynaj%C4%99cia-gr%C3%B3jecka-216-lokal-u%C5%BCytkowy-commercial-property-local-commercial-gesch%C3%A4ftslokal/1002242592610911351813509","title":"Do wynajęcia Grójecka 216 Lokal użytkowy / commercial property / local commercial / Geschäftslokal ","amount":"4 500 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMxWDgwMA==/z/ckgAAOSw~T9aWT7F/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/srodmiescie/luksusowe-3-pokoje-centrum-parking-loggia-bezpo%C5%9Brednio/1002200548240910471374309","title":"LUKSUSOWE 3 POKOJE, CENTRUM, PARKING, LOGGIA! BEZPOŚREDNIO!","amount":"515 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/ODAwWDQ1MQ==/z/zrQAAOSwOb9akqAQ/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/krakow/nowowyko%C5%84czona-funkcjonalna-kawalerka-od-w%C5%82a%C5%9Bciciela-+-gotowa-do-zamieszkania-8-zysku/1002238669870911067550309","title":"Nowowykończona, funkcjonalna kawalerka od właściciela - gotowa do zamieszkania! 8% zysku ","amount":"189 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDUwWDgwMA==/z/MukAAOSwI5tamDj6/$_19.JPG","url":"/a-pokoje-do-wynajecia/krakow/pok%C3%B3j-jednoosobowy-+-kazimierz-ul-w%C4%85ska-+-%C5%9Bcis%C5%82e-centrum-krakowa/1002243552880911238605509","title":"POKÓJ JEDNOOSOBOWY - KAZIMIERZ UL. WĄSKA - ŚCISŁE CENTRUM KRAKOWA !","amount":"1 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDgwWDY0MA==/z/SswAAOSw9tJacLUg/$_19.JPG","url":"/a-pokoje-do-wynajecia/krakow/du%C5%BCy-sloneczny-pokoj-do-wynajecia/1002216212680910473458309","title":"DUŻY SLONECZNY POKOJ DO WYNAJECIA ","amount":"620 zł"}],"categoryId":2},
+        var adList = {"nextAjaxUrl":"/galleryAjax/2?requestIndex=1","ads":[{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/ODAwWDgwMA==/z/4GAAAOSwCbxamWkL/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/jelenia-gora/kawalerka-w-centrum-jeleniej-g%C3%B3ry/1002236032020910473797209","title":"Kawalerka w centrum Jeleniej Góry","amount":"900 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMxWDgwMA==/z/USYAAOSw-URZsVCB/$_19.JPG","url":"/a-lokal-i-biuro/krakow/biuro-100-m2-ul-cysters%C3%B3w-krak%C3%B3w-bezpo%C5%9Brednio-od-w%C5%82a%C5%9Bciciela/1002092241760911091784509","title":"Biuro 100 m2 ul. Cystersów, Kraków, bezpośrednio od właściciela.","amount":"4 500 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTQwWDgwMA==/z/mVwAAOSwndZadz~3/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/krakow/pi%C4%99kne-mieszkanie-na-osiedlu-moje-eldorado/1002220325680910510092109","title":"Piękne mieszkanie na Osiedlu Moje Eldorado!","amount":"1 650 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTM5WDgwMA==/z/9oUAAOSwcedanWHL/$_19.JPG","url":"/a-pokoje-do-wynajecia/poznan/du%C5%BCy-i-ma%C5%82y-pok%C3%B3j-w-centrum-poznania-3-minuty-od-przystanku-ma%C5%82e-garbary-i-5-minut-od-rynku/1002247088320910498021309","title":"Duży i mały pokój w centrum Poznania. 3 minuty od przystanku. Małe Garbary i  5 minut od Rynku","amount":"Proszę o kontakt"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMzWDgwMA==/z/UdoAAOSwnsRajJmY/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/mokotow/mieszkanie-warszawa-mokot%C3%B3w-cybernetyki-2-pokoje-37m2/1002227722650911341401309","title":"MIESZKANIE WARSZAWA MOKOTÓW CYBERNETYKI 2 POKOJE 37M2","amount":"2 600 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjM5WDU1NQ==/z/m6IAAOSwFlxankWq/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/krakow/sprzedam-jednopokojowe-+-orli%C5%84skiego/1002247643500910514424109","title":"Sprzedam jednopokojowe - Orlińskiego","amount":"235 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/3XYAAOSwj2VanUJ-/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/mokotow/3-pokoje-z-2-%C5%82azienkami-i-gara%C5%BCem-os-marina/1002246918700911269469809","title":"3 pokoje z 2 łazienkami i garażem, os. Marina","amount":"3 600 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/ODAwWDU5Nw==/z/zooAAOSw~rZanX1E/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/wroclaw/wynajm%C4%99-3-pokojowe-mieszkanie-na-kozanowie/1002247167680911354389909","title":"wynajmę 3 pokojowe mieszkanie na Kozanowie","amount":"1 800 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMxWDgwMA==/z/yk8AAOSwisZaktDo/$_19.JPG","url":"/a-lokal-i-biuro/krakow/biuro-55m2-ul-cysters%C3%B3w-9-biurowiec-klasy-a-bezpo%C5%9Brednio-od-w%C5%82a%C5%9Bciciela/1002239298050911091784509","title":"Biuro 55m2, ul. Cystersów 9, biurowiec klasy A (bezpośrednio od właściciela)","amount":"4 200 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NzMzWDc4Ng==/z/6UoAAOSwDVtaci9V/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/krakow/mieszkanie-3-pokoje-osobna-kuchania-%C5%82azienka-stan-deweloperski-plac-bohater%C3%B3w-getta/1002217296020911318589509","title":"MIESZKANIE 3 POKOJE OSOBNA KUCHANIA ŁAZIENKA STAN DEWELOPERSKI PLAC BOHATERÓW GETTA","amount":"549 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDUwWDgwMA==/z/0V8AAOSw4aFanYh3/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/krakow/w%C5%82a%C5%9Bciciel-wynajmie-na-os-o%C5%9Bwiecenia-przy-parku-wodnym-ch-serenada-capgemini-dobrego-pasterza/1002247202330910494202909","title":"Właściciel wynajmie na os Oświecenia przy Parku Wodnym, CH Serenada, CapGemini, Dobrego Pasterza","amount":"1 450 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/BUwAAOSwUMZamlNW/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/mokotow/blisko-mordoru-od-zaraz-do-wej%C5%9Bcia-po-remoncie-ul-bry%C5%82y-bez-zwierz%C4%85t-i-os%C3%B3b-pal%C4%85cych/1002244925860910495814609","title":"Blisko Mordoru, OD ZARAZ, DO WEJŚCIA, PO REMONCIE, ul Bryły, Bez zwierząt i osób palących","amount":"1 900 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NDAwWDYwMA==/z/pmkAAOSwlrBanl~2/$_19.JPG","url":"/a-lokal-i-biuro/srodmiescie/kuchnia-cateringowa-gastronomiczna-produkcyjna-450-m2-warszawa-i-okolice/1002247822460911079787609","title":"Kuchnia cateringowa/ gastronomiczna/ produkcyjna 450 m2 Warszawa i okolice","amount":"25 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMzWDgwMA==/z/-egAAOSwTrFah0pp/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/wroclaw/nowy-apartament-lux-glamour-full-wypos-2poziomy/1002231717190910508664809","title":"Nowy apartament/lux /glamour/full wypos/2poziomy","amount":"550 000 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NTMyWDgwMA==/z/mT0AAOSwuIRanVly/$_19.JPG","url":"/a-mieszkania-i-domy-do-wynajecia/praga-poludnie/2-pokojowe-balkon-goc%C5%82aw-osiedle-strze%C5%BCone/1002247049570911126960009","title":" 2 pokojowe, balkon, Gocław, osiedle strzeżone ","amount":"2 600 zł"},{"imgUrl":"https://img.classistatic.com/crop/100x100/i.ebayimg.com/00/s/NjAwWDgwMA==/z/JrcAAOSwxcRanuTC/$_19.JPG","url":"/a-mieszkania-i-domy-sprzedam-i-kupie/bialoleka/odkryta-43-5m-2-pokoje-widna-kuchnia-osobne-wc-2-miejsca-parkingowe-cena-245-000-z%C5%82-do-uzgodnienia/1002248483530910468158309","title":"Odkryta 43,5m 2 pokoje widna kuchnia osobne WC 2 miejsca parkingowe cena 245.000,zł do uzgodnienia","amount":"Proszę o kontakt"}],"categoryId":2},
             dataPostLink="/post.html",
             dataPostAdText='Zobacz swoje ogłoszenie',
             
