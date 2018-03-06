@@ -1,11 +1,12 @@
 
 const { gumtreeExtractor } = require('./scrape');
-const { writeFile } = require('./fileOperations') 
+const { writeFile } = require('./fileOperations')
 const request = require('axios');
 const fs = require('fs');
 const jsonfile = require('jsonfile');
 const async = require('async');
 const pageDataFolder = '../mockup/';
+const mailer = require('./mailSender');
 
 const gumtreeData = [
   {
@@ -26,70 +27,50 @@ const gumtreeData = [
 ]
 
 
- async function getGumtreeRequest(input) {
-   console.log('pytam: ' + input.url);
-   const pageData = await request(input.url)
-   const res = await writeFile("../mockup/" + input.shortkey + '.txt', pageData.data)
-   return res
- }
+
+async function getGumtreeRequest(input) {
+  console.log('pytam: ' + input.url);
+  const pageData = await request(input.url)
+  const scraped = gumtreeExtractor(pageData.data)
+  return scraped
+}
 
 
-var q = async.queue(function(task, callback) {
-    console.log('plik:  ' + task.fileName);
-    callback();
-}, 1);
+const getAllFlats = (myArray) => {
+  const promises = myArray.map(async (flat) => {
+    return await getGumtreeRequest(flat)
+
+  });
+  return Promise.all(promises);
+}
+
+(async function domek() {
+  console.log('tu domczyk')
+  const domek = await getAllFlats(gumtreeData)
+  //flatten array
+  const merged = [].concat.apply([], domek);
+  //extract only fresh data
+  const filtered = merged.filter((flat) => {
+    return !!flat.lifespan.split(' ')[1] && flat.lifespan.split(' ')[1] == 'min'
+  })
+  //send mail
+  mailer.mailSender.send(filtered)
+  //done!
+
+  //file save for test
+  // var fs = require('fs');
+  // let data = JSON.stringify(filtered, null, 2);
+  // fs.writeFile("./domek1.json", data, function (err) {
+  //   if (err) {
+  //     return console.log(err);
+  //   }
+
+  //   console.log("The file was saved!");
+  // });
+})()
 
 
-// TO DO
-// - rozbicie tego na 2 osobne kolejki
-// najpierw requesty, pozniej skrobanie
-// dodatkowo pierwsza kolejka na koniec wywołuje drugą
 
 
 
 
-// Web Scrape Queue
-var requestQueue = async.queue(function(task, callback) {
-  console.log('plik:  ' + task.fileName);
-  callback();
-}, 1);
-
-gumtreeData.map(flat => {
-    requestQueue.push({fileName: flat.shortkey}, function(err) {
-        getGumtreeRequest(flat)
-    });
-})
-
-requestQueue.drain = () => {
-  console.log('all URLS have been scraped')
-};
-
-
-
-const arrayOfArrays = []
-
-// add scraping to queue
-// fs.readdir(pageDataFolder, (err, files) => {
-//   files.map(file => {
-//     q.push({fileName: file}, function(err) {
-//             arrayOfArrays.push(gumtreeExtractor(pageDataFolder + file))
-//         });
-//       })
-// })
-
-// q.drain = function() {
-
-//     let merged = [].concat.apply([], arrayOfArrays);
-//     let data = JSON.stringify(merged, null, 2);
-
-//     fs.writeFile('../scraped/'+ String(new Date()).substr(0,24) + '.json', data, (err) => {
-//         if (err) {
-//           // reject(err);
-//         } else {
-//           console.log('Data written to file');
-//           // resolve(result)
-//         }
-//       })
-//       console.log('all files have been processed');
-
-// };

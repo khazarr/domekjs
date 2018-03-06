@@ -7,10 +7,10 @@ const fs = require('fs');
 
 function gumtreeExtractor(html) {
 
-  const readed = fs.readFileSync(html, 'utf8');
+  // const readed = fs.readFileSync(html, 'utf8');
   const result = [];
-  // const $ = cheerio.load(html);
-  const $ = cheerio.load(readed);
+  const $ = cheerio.load(html);
+  // const $ = cheerio.load(readed);
 
   const titles = [];
   const urls = [];

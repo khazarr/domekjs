@@ -26,6 +26,7 @@ const mailSender = {
             })
         request
             .then((result) => {
+                console.log('mail sent')
                 console.log(result.body)
             })
             .catch((err) => {
