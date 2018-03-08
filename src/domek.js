@@ -8,23 +8,80 @@ const async = require('async');
 const pageDataFolder = '../mockup/';
 const mailer = require('./mailSender');
 
-const gumtreeData = [
-  {
-    url: 'https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krowodrza+gorka/v1c9008q0p1?nr=2&pr=,1600',
-    keyword: 'Krowodrza Górka, max 1600 PLN, 2 pokoje',
-    shortkey: 'kgorka'
+// const gumtreeData = [
+//   {
+//     url: 'https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krowodrza+gorka/v1c9008q0p1?nr=2&pr=,1600',
+//     keyword: 'Krowodrza Górka, max 1600 PLN, 2 pokoje',
+//     shortkey: 'kgorka'
+//   },
+//   {
+//     url: 'https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/zabiniec/v1c9008q0p1?nr=2&pr=,1600',
+//     keyword: 'Żabiniec, max 1600 PLN, 2 pokoje',
+//     shortkey: 'zabiniec'
+//   },
+//   {
+//     url: 'https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/v1c9008q0p1?nr=2&pr=,1600',
+//     keyword: 'Mogilskie, max 1600 PLN, 2 pokoje',
+//     shortkey: 'mogilskie'
+//   }
+// ]
+
+const domek = {
+  async getGumtreeRequest(flat) {
+    console.log('pytam: ' + flat.url);
+    const pageData = await request(flat.url)
+    const scraped = gumtreeExtractor(pageData.data)
+    return scraped
   },
-  {
-    url: 'https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/zabiniec/v1c9008q0p1?nr=2&pr=,1600',
-    keyword: 'Żabiniec, max 1600 PLN, 2 pokoje',
-    shortkey: 'zabiniec'
+  getAllFlats(flatArray) {
+    const promises = flatArray.map(async (flat) => {
+      return await this.getGumtreeRequest(flat)
+
+    });
+    return Promise.all(promises);
   },
-  {
-    url: 'https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/rondo+mogilskie/v1c9008q0p1?nr=2&pr=,1600',
-    keyword: 'Mogilskie, max 1600 PLN, 2 pokoje',
-    shortkey: 'mogilskie'
+  async init(gumtreeData) {
+    console.log('tu domczyk module')
+    console.log('table len: ' + gumtreeData.length)
+    const flatsArray = await this.getAllFlats(gumtreeData)
+    //flatten array
+    const merged = [].concat.apply([], flatsArray);
+    //extract only fresh data
+    const filtered = merged.filter((flat) => {
+      return !!flat.lifespan.split(' ')[1] && flat.lifespan.split(' ')[1] == 'min'
+    })
+
+
+    var fs = require('fs');
+    let data = JSON.stringify(filtered, null, 2);
+    fs.writeFile("./domek1.json", data, function (err) {
+      if (err) {
+        return console.log(err);
+      }
+
+      console.log("The file was saved!");
+
+      
+    });
+
+    return filtered;
+
   }
-]
+}
+
+
+module.exports = {
+  domek
+};
+
+
+
+
+
+/* 
+for tests
+
+domek.init()
 
 
 
@@ -44,7 +101,7 @@ const getAllFlats = (myArray) => {
   return Promise.all(promises);
 }
 
-(async function domek() {
+async function domekFunc() {
   console.log('tu domczyk')
   const domek = await getAllFlats(gumtreeData)
   //flatten array
@@ -67,10 +124,11 @@ const getAllFlats = (myArray) => {
 
   //   console.log("The file was saved!");
   // });
-})()
+}
 
 
 
 
 
 
+*/
