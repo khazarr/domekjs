@@ -17,6 +17,7 @@
     "express": "^4.16.2",
     "jsonfile": "^4.0.0",
     "mongodb": "^3.0.4",
+    "node-cron": "^1.2.1",
     "node-mailjet": "^3.2.1"
   }
 }

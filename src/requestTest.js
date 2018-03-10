@@ -18,12 +18,20 @@ const gumtreeData = [
     }
 ]
 
-request.post('http://localhost:3000/domek', {
-    gumtreeData
-})
-    .then(function (response) {
-        console.log(response);
+
+
+var cron = require('node-cron');
+
+cron.schedule('*/10 * * * * *', function () {
+    console.log('running a task every 10 sec');
+
+    request.post('http://localhost:3000/domek', {
+        gumtreeData
     })
-    .catch(function (error) {
-        console.log(error);
-    });
+        .then(function (response) {
+            console.log(response);
+        })
+        .catch(function (error) {
+            console.log(error);
+        });
+});

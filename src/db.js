@@ -74,7 +74,6 @@ const flatsDAO = {
             })
 
             client.close().then((res) => {
-                console.log('closed connection:')
             })
 
         });

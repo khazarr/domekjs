@@ -37,7 +37,7 @@ const domek = {
   },
   storeInDb(scrapedFlats, queryData) {
     scrapedFlats = scrapedFlats.filter((flat) => {
-      return !!flat.lifespan.split(' ')[1] && (flat.lifespan.split(' ')[1] == 'min' || flat.lifespan.split(' ')[1] == 'godz' )
+      return !!flat.lifespan.split(' ')[1] && (flat.lifespan.split(' ')[1] == 'min' )
      })
     db.flatsDAO.insertFlats(scrapedFlats,queryData)
   },
