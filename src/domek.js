@@ -8,6 +8,7 @@ const async = require('async');
 const pageDataFolder = '../mockup/';
 const mailer = require('./mailSender');
 const db = require('./db');
+const logger = require('./logger')
 
 // const gumtreeData = [
 //   {
@@ -32,6 +33,7 @@ const domek = {
     console.log('pytam: ' + flat.url);
     const pageData = await request(flat.url)
     const scraped = gumtreeExtractor(pageData.data)
+    logger.info(new Date() + " domek sucessfuly scraped flats from " + flat.url)
     this.storeInDb(scraped,flat)
     return scraped
   },
@@ -49,9 +51,10 @@ const domek = {
     return Promise.all(promises);
   },
   async init(gumtreeData) {
+    logger.info(new Date() + " domek started job")
     console.log('tu domczyk module')
-    console.log('table len: ' + gumtreeData.length)
     const flatsArray = await this.getAllFlats(gumtreeData)
+    logger.info(new Date() + "domek sucessfuly stored flats in db")
     //flatten array
     const merged = [].concat.apply([], flatsArray);
     //extract only fresh data
@@ -59,16 +62,17 @@ const domek = {
       return !!flat.lifespan.split(' ')[1] && flat.lifespan.split(' ')[1] == 'min'
     })
 
-
+    
     var fs = require('fs');
     let data = JSON.stringify(filtered, null, 2);
-    fs.writeFile("./domek1.json", data, function (err) {
+    fs.writeFile("../scraped/"+ new Date() +".json", data, function (err) {
       if (err) {
         return console.log(err);
       }
 
       console.log("The file was saved!");
-
+      logger.info(new Date() + "domek saved file")
+      logger.info(new Date() + "domek ended job")
       //send mail
       // mailer.mailSender.send(filtered)
 
