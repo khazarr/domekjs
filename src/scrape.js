@@ -84,30 +84,9 @@ function gumtreeExtractor(html) {
 
   }
 
-  let data = JSON.stringify(result, null, 2);
 
-
-  // fs.writeFile('../scraped/'+ String(new Date()).substr(0,24) + '.json', data, (err) => {
-  //     if (err) {
-  //       // reject(err);
-  //     } else {
-  //       console.log('Data written to file');
-  //       // resolve(result)
-  //     }
-  //   })
   return result
 
-  // return new Promise(function(resolve, reject) {
-  //   	// Do async job
-  //     fs.writeFile('../scraped/'+ String(new Date()).substr(0,24) + '.json', data, (err) => {
-  //         if (err) {
-  //           reject(err);
-  //         } else {
-  //           console.log('Data written to file');
-  //           resolve(result)
-  //         }
-  //     });
-  //   })
 }
 
 module.exports = {

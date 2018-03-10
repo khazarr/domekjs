@@ -7,6 +7,7 @@ const jsonfile = require('jsonfile');
 const async = require('async');
 const pageDataFolder = '../mockup/';
 const mailer = require('./mailSender');
+const db = require('./db');
 
 // const gumtreeData = [
 //   {
@@ -31,7 +32,14 @@ const domek = {
     console.log('pytam: ' + flat.url);
     const pageData = await request(flat.url)
     const scraped = gumtreeExtractor(pageData.data)
+    this.storeInDb(scraped,flat)
     return scraped
+  },
+  storeInDb(scrapedFlats, queryData) {
+    scrapedFlats = scrapedFlats.filter((flat) => {
+      return !!flat.lifespan.split(' ')[1] && (flat.lifespan.split(' ')[1] == 'min' || flat.lifespan.split(' ')[1] == 'godz' )
+     })
+    db.flatsDAO.insertFlats(scrapedFlats,queryData)
   },
   getAllFlats(flatArray) {
     const promises = flatArray.map(async (flat) => {
@@ -60,6 +68,9 @@ const domek = {
       }
 
       console.log("The file was saved!");
+
+      //send mail
+      // mailer.mailSender.send(filtered)
 
       
     });
