@@ -36,7 +36,7 @@ function gumtreeExtractor(html) {
     prices.push(price)
 
     const priceFilered = price.split(' ').slice(0,-1).join('')
-    priceFilered.push(priceFilered)
+    pricesFiltered.push(priceFilered)
   });
 
   $('#pht-cnt').each(function(i, elem) {
@@ -74,7 +74,7 @@ function gumtreeExtractor(html) {
       url: urls[i],
       description: descriptions[i],
       price: prices[i],
-      priceFiltered: priceFilered[i],
+      priceFiltered: pricesFiltered[i],
       lifespan: lifespans[i]
     }
 
@@ -88,7 +88,6 @@ function gumtreeExtractor(html) {
 
 
   }
-
 
   return result
 
