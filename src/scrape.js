@@ -16,6 +16,7 @@ function gumtreeExtractor(html) {
   const urls = [];
   const descriptions = [];
   const prices = [];
+  const pricesFiltered = [];
   const imgs = [];
   const lifespans = [];
   const imagesAvailible = []
@@ -33,6 +34,9 @@ function gumtreeExtractor(html) {
   $('.amount').each(function(i, elem) {
     const price = $(this).text();
     prices.push(price)
+
+    const priceFilered = price.split(' ').slice(0,-1).join('')
+    priceFilered.push(priceFilered)
   });
 
   $('#pht-cnt').each(function(i, elem) {
@@ -70,6 +74,7 @@ function gumtreeExtractor(html) {
       url: urls[i],
       description: descriptions[i],
       price: prices[i],
+      priceFiltered: priceFilered[i],
       lifespan: lifespans[i]
     }
 
