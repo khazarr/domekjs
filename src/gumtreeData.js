@@ -25,9 +25,9 @@ const gumtreeArray = [
         shortkey: 'grzegorzeckie'
     },
     {
-        url: 'https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krakow/grzegorzeckie/v1c9008l3200208q0p1?nr=2&pr=,1600',
+        url: 'https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krakow/pilotow/v1c9008l3200208q0p1?nr=2&pr=,1600',
         keyword: 'grzegorzeckie, max 1600 PLN, 2 pokoje',
-        shortkey: 'grzegorzeckie'
+        shortkey: 'pilotow'
     },
     {
         url: 'https://www.gumtree.pl/s-mieszkania-i-domy-do-wynajecia/krakow/oficerskie/v1c9008l3200208q0p1?nr=2&pr=,1600',
