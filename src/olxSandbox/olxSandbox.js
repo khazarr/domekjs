@@ -8,7 +8,7 @@ const testUrl = 'https://www.olx.pl/nieruchomosci/mieszkania/wynajem/krakow/q-mo
 const olxModule = {
     async getAndSavePageData () {
         const pageData = await request(testUrl)
-        fs.writeFile("./olx.txt", pageData.data, function (err) {
+        fs.writeFile("./olx2.txt", pageData.data, function (err) {
             if (err) {
                 return console.log(err);
             }
@@ -17,7 +17,7 @@ const olxModule = {
         }); 
     },
     scrape() {
-        const readed = fs.readFileSync('olx.txt', 'utf8');
+        const readed = fs.readFileSync('olx2.txt', 'utf8');
         const $ = cheerio.load(readed);
 
         const titles = [];
@@ -56,9 +56,18 @@ const olxModule = {
 
         $('p.color-9.lheight16.marginbott5.x-normal').each(function (i, elem) {
             // console.log($(this).text())
-            const lifespan = $(this).text().split('                                ');
-            console.log(lifespan)
-            lifespans.push(lifespan)
+            const lifespan = $(this).text();
+            // console.log(lifespan)
+            // let lifespanFiltered = lifespan.slice(lifespan.search(/\S/))
+
+            function extractLifespan(lifespan) {
+                let firstFilter = lifespan.slice(lifespan.search(/\S/));
+                let reg = /\S+\s+\S+/g;
+                let arr = reg.exec(firstFilter);
+                return arr[0];
+            }
+
+            lifespans.push(extractLifespan(lifespan))
 
 
 
@@ -68,9 +77,9 @@ const olxModule = {
 
         // console.log(titles)
         // console.log(urls)
-        console.log(prices)
-        console.log(pricesFiltered)
-        console.log(lifespans)
+        // console.log(prices)
+        // console.log(pricesFiltered)
+        // console.log(lifespans)
     }
 
 }

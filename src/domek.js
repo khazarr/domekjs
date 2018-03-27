@@ -75,6 +75,7 @@ module.exports = {
 };
 
 
+domek.init(gumtreeData.gumtreeArray)
 // var cron = require('node-cron');
 
 // cron.schedule('0 * * * *', function () {
