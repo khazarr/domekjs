@@ -74,7 +74,7 @@ const domek = {
     const flatsArray = await this.getAllFlats(inpuFlatsArray, provider)
     logger.info(new Date() + "domek sucessfuly stored flats in db")
     //flatten array
-    const merged = [].concat.apply([], flatsArray);
+    let merged = [].concat.apply([], flatsArray);
 
 
     //extract only fresh data
@@ -82,7 +82,11 @@ const domek = {
     //   return !!flat.lifespan.split(' ')[1] && flat.lifespan.split(' ')[1] == 'min'
     // })
 
+    if (provider === 'gumtree') {
+      merged = this.gumtreeFilterOnlyLastHourFlats(merged)
+    }
 
+    
     var fs = require('fs');
     let data = JSON.stringify(merged, null, 2);
     fs.writeFile("../scraped/" + new Date() + ".json", data, function (err) {
@@ -94,7 +98,7 @@ const domek = {
       logger.info(new Date() + "domek saved file")
       logger.info(new Date() + "domek ended job")
       //send mail
-      // mailer.mailSender.send(filtered)
+      // mailer.mailSender.send(merged)
 
 
     });
@@ -115,33 +119,16 @@ module.exports = {
 //   provider: 'gumtree'
 // })
 
-domek.init({
-  inpuFlatsArray: olxData.olxArray,
-  provider: 'olx'
-})
+// domek.init({
+//   inpuFlatsArray: olxData.olxArray,
+//   provider: 'olx'
+// })
 
 
-var cron = require('node-cron');
-
-cron.schedule('22 * * *', function () {
-  logger.info(new Date() + " cron running olx job")
-  domek.init({
-    inpuFlatsArray: olxData.olxArray,
-    provider: 'olx'
-  })
-
-});
-
-cron.schedule('30 * * * *', function () {
-  logger.info(new Date() + " cron running gumtree job")
-  domek.init({
-    inpuFlatsArray: gumtreeData.gumtreeArray,
-    provider: 'gumtree'
-  })
-});
 
 
-// module.exports = {
-//   domek
-// };
+
+module.exports = {
+  domek
+};
 
