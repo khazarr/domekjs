@@ -23,12 +23,9 @@ const olxModule = {
         const titles = [];
         const urls = [];
         const urlsNoHash = [];
-        const descriptions = [];
         const prices = [];
         const pricesFiltered = [];
-        const imgs = [];
         const lifespans = [];
-        const imagesAvailible = []
 
         
         $('.detailsLink.link').each(function (i, elem) {
@@ -73,15 +70,23 @@ const olxModule = {
 
         });
 
+        const result = [];
+        for (let i = 0; i < titles.length; i++) {
+            const flat = {
+                title: titles[i],
+                url: urls[i],
+                urlNoHash: urlsNoHash[i],
+                price: prices[i],
+                priceFiltered: pricesFiltered[i],
+                lifespan: lifespans[i]
+            }
+            result.push(flat)
+        }
 
-
-        // console.log(titles)
-        // console.log(urls)
-        // console.log(prices)
-        // console.log(pricesFiltered)
-        // console.log(lifespans)
+        console.log(result)
     }
 
 }
 
 olxModule.scrape()
+

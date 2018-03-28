@@ -93,6 +93,70 @@ function gumtreeExtractor(html) {
 
 }
 
+function olxExtractor(html) {
+    const $ = cheerio.load(html);
+
+    const titles = [];
+    const urls = [];
+    const urlsNoHash = [];
+    const prices = [];
+    const pricesFiltered = [];
+    const lifespans = [];
+
+
+    $('.detailsLink.link').each(function (i, elem) {
+      const title = $(this).children().text();
+      titles.push(title)
+
+      const url = $(this).attr('href')
+      const urlWithoutHash = url.split('#')[0]
+      urls.push(url)
+      urlsNoHash.push(urlWithoutHash)
+    });
+
+    $('p.price').each(function (i, elem) {
+      const price = $(this).children().text();
+      const priceFiltered = price.split(' ').slice(0, -1).join('');
+
+      prices.push(price)
+      pricesFiltered.push(priceFiltered)
+
+
+    });
+
+    $('p.color-9.lheight16.marginbott5.x-normal').each(function (i, elem) {
+      const lifespan = $(this).text();
+
+      function extractLifespan(lifespan) {
+        let firstFilter = lifespan.slice(lifespan.search(/\S/));
+        let reg = /\S+\s+\S+/g;
+        let arr = reg.exec(firstFilter);
+        return arr[0];
+      }
+
+      lifespans.push(extractLifespan(lifespan))
+
+
+
+    });
+
+    const result = [];
+    for (let i = 0; i < titles.length; i++) {
+      const flat = {
+        title: titles[i],
+        url: urls[i],
+        urlNoHash: urlsNoHash[i],
+        price: prices[i],
+        priceFiltered: pricesFiltered[i],
+        lifespan: lifespans[i]
+      }
+      result.push(flat)
+    }
+
+    return result
+}
+
 module.exports = {
-  gumtreeExtractor
+  gumtreeExtractor,
+  olxExtractor
 };

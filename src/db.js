@@ -55,7 +55,7 @@ const url = 'mongodb://localhost:27017';
 
 
 const flatsDAO = {
-    insertFlats(flatsArr, searchData) {
+    insertFlats(flatsArr, searchData, provider) {
         MongoClient.connect(url, function (err, client) {
             assert.equal(null, err);
             console.log("Connected successfully to server");
@@ -67,6 +67,7 @@ const flatsDAO = {
                 flat.timestamp = new Date()
                 flat.keyword = searchData.keyword
                 flat.shortkey = searchData.shortkey
+                flat.provider = provider
                 collection.insertOne(flat, () => {
                     console.log('inserted')
                 })
